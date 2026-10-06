@@ -20,6 +20,12 @@ The player inherits a small neglected patch of land and restores it into a beaut
 - Day loop (proposed): one free action phase per day (tend, harvest, bake, sell, buy upgrades), closed by End day; plants grow overnight. New plantings take ~3–4 days to first fruit; June-bearers produce heavily in ~8-day windows; everbearers trickle all season; greenhouse enables out-of-season growing. One simple weather forecast per day (sun/rain/heat) — cultivar personalities live here. Watering is one tap per bed; irrigation (T3) auto-waters.
 - Open: the exact trigger conditions (candidates: greenhouse operational, thriving roadside stand, all 14 cultivars grown at least once, recipes mastered…), the countdown length (~14 days as strawman). DECIDED 2026-10-06: the automatic trigger stands, and if the player drifts without meeting the conditions the game nudges rather than waiting forever — diegetic, e.g. a festival-committee letter or stand gossip pointing at unmet conditions. Nudge timing still to nail down.
 
+## Day loop & tutorial (DECIDED 2026-10-06)
+- Each day = one free action phase: water beds (one tap per bed), plant, harvest, bake, sell, shop upgrades — then End day. Overnight, plants grow and tomorrow's weather rolls in.
+- Buying "more plants" plants them directly — no seed inventory to manage.
+- Neglect slows growth/yield, never kills. No fail states in the tending.
+- Tutorial beats: 1) inherit Starvale, name the pig; 2) clear and tidy the old Earliglow patch (tap-to-tend); 3) water it; 4) harvest the first berries — small, past-prime Earliglows, quietly showing why new varieties matter; 5) sell → first coins; 6) bake the first recipe; 7) buy more plants (Annapolis) → the farm visibly grows; 8) done — farm operational, loop learned, tier 1 open.
+
 ## Design pillars
 - **Cozy and finite.** A real ending, not endless escalation.
 - **The farm is the progress bar.** Every upgrade is visible: fuller greener plants, larger redder berries, neater paths, repaired fences, flowers, bees, then the greenhouse, market setup, decorations, festival bunting. Progress should be obvious just by looking.
@@ -171,7 +177,7 @@ Open questions:
 - Recipes & processing
 - Act III festival-prep phase & the signature creation (finite checklist design)
 - The pig (name? personality? idle animations?)
-- Season structure & pacing
+- Season structure & pacing: season/time/day-loop/tutorial decided 2026-10-06; first-pass numbers (costs, yields, prices, growth times) pending
 - Educational layer (how the facts surface)
 
 ## Title candidates
