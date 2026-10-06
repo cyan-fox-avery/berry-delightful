@@ -196,6 +196,12 @@ Rule (from the shark game): value NOT tied to progression; funny/silly/education
 - Decided inclusions (Avery, at Ben's suggestion — real memories): **Thumper**, the tan-and-white rabbit with upright ears — visits the field edge now and then, thumps once, hops off; **Pookie**, the hamster — not live (would break reality), but a tiny framed drawing on the farmhouse windowsill, a memorial object; **Baby**, the dog — occasional farm visitor (sun-naps included); Avery can provide a photo for sprite creation when art time comes; **the cardinal** (dad) — perches on the fence post on quiet mornings, never explained.
 - Riff pile (Avery wants these too): heart berry — pressing would squash it (it's not a flower), and a fresh one would rot, so this one's for eating: sweetest berry of the summer, a tiny private moment, then gone; Strawberry Moon flavor text in June; cloud shapes (strawberry, pig); festival crowd cameos — Tammy and Michael (married couple), June, Barbara (classic grandma), Ben (love interest, implied only — kept 2026-10-06; the crowd gossip does the work), Avery (lol); plus Sarah and Harley; childhood object buried in the old Earliglow patch (was: a marble — cut, they never played with marbles; awaiting what's true to them); tap-the-pig trick (ten taps → dramatic flop); four-leaf clover in the keepsake box. The keepsake box (farmhouse shelf) is the quiet little museum holding the durable treasures — no reward attached.
 
+## Prototype scope — v0.1 (DECIDED 2026-10-06)
+- **In:** full tutorial (8 beats) → T1 open; T1 complete (Annapolis + Honeoye planting, raised planter boxes, all 4 starter recipes, all 3 appliances); day loop with overnight growth + one weather forecast/day; first-pass economy; nameable pig that eats failed bakes.
+- **Endpoint:** completing T1 → "to be continued" beat that teases the bees (a bee drifts past, the beekeeper waves from the road) — v0.2's trailer.
+- **Out:** T2+, festival/countdown, achievements, easter eggs, greenhouse, roadside stand; session-based for now (save/load deferred — flagged as an open question).
+- **Launch-readiness:** tutorial completable end-to-end; all 4 recipes bakeable and sellable; numbers in; version number displayed (standing rule); placeholder art is fine (canon for now).
+
 ## Queued design topics
 - Strawberry varieties: tier placement of the 14 keeps (proposed above) — IN DISCUSSION. Maybes decided 2026-10-06 (Earliglow kept for tutorial; other six cut). Also decides whether soil/mulch/compost is a real mechanic or cut (no filler).
 - Recipes & processing
