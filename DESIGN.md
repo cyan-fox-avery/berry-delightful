@@ -183,7 +183,7 @@ Principle (carried from the shark game): no grind counters — celebrate moments
 
 ## Easter eggs (2026-10-06 — inclusions decided, forms in discussion)
 Rule (from the shark game): value NOT tied to progression; funny/silly/educational/cute/sweet; must not break the game's reality.
-- Decided inclusions (Avery, at Ben's suggestion — real memories): **Thumper**, the tan-and-white rabbit with upright ears — visits the field edge now and then, thumps once, hops off; **Pookie**, the hamster — not live (would break reality), but a tiny framed drawing on the farmhouse windowsill, a memorial object; **the cardinal** (dad) — perches on the fence post on quiet mornings, never explained.
+- Decided inclusions (Avery, at Ben's suggestion — real memories): **Thumper**, the tan-and-white rabbit with upright ears — visits the field edge now and then, thumps once, hops off; **Pookie**, the hamster — not live (would break reality), but a tiny framed drawing on the farmhouse windowsill, a memorial object; **Baby**, the dog — occasional farm visitor (sun-naps included); Avery can provide a photo for sprite creation when art time comes; **the cardinal** (dad) — perches on the fence post on quiet mornings, never explained.
 - Riff pile (Avery wants all of these too): heart-berry keepsake; Strawberry Moon flavor text in June; cloud shapes (strawberry, pig); festival crowd cameos (Sarah, Harley, Ben); the marble in the old Earliglow patch; tap-the-pig trick (ten taps); four-leaf clover hidden in the clover patches.
 
 ## Queued design topics
