@@ -9,6 +9,11 @@ A cozy, finite strawberry farming game for Avery's sister Fiona — "a small pla
 
 The player inherits a small neglected patch of land and restores it into a beautiful working strawberry farm. Core loop: plant → tend → harvest → sell or process → improve the farm → unlock new varieties, growing methods, recipes, and possibilities.
 
+## Structure
+- **Act I (tutorial–tier 2): restoration.** The farm goes scruffy → neat → alive; the player learns the loop, builds volume, learns to bake. A private project.
+- **Act II (tier 3+): the farm faces outward.** The roadside stand opens direct sales and starts the festival pipeline — the farm becomes part of the community, building toward something bigger.
+- Act III TBD (the festival run-up?).
+
 ## Design pillars
 - **Cozy and finite.** A real ending, not endless escalation.
 - **The farm is the progress bar.** Every upgrade is visible: fuller greener plants, larger redder berries, neater paths, repaired fences, flowers, bees, then the greenhouse, market setup, decorations, festival bunting. Progress should be obvious just by looking.
@@ -49,7 +54,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 **Tier 3** — DECIDED 2026-10-06
 - More strawberry plants (RECURRING)
 - Irrigation (held from earlier tiers: growing *better* now that the farm has volume and pollinators)
-- Roadside stand (NEW unlock at tier 3: the farm's first direct-sales structure — produce-stand energy straight from the visual identity; hand-painted sign, crates of berries. Possible mechanical seed of the festival.)
+- Roadside stand (NEW unlock at tier 3: the farm's first direct-sales structure — produce-stand energy straight from the visual identity; hand-painted sign, crates of berries. Does all three: better prices than default selling, passive sales ticking over while you bake, and the start of the festival pipeline. Opens Act II.)
 
 ### Kitchen upgrades
 **Tier 1** (post-tutorial) — DECIDED 2026-10-06
@@ -77,7 +82,6 @@ Decided (2026-10-06):
 - **Upgrades feed the baking in every way:** new varieties, new ingredients, better kitchen equipment, new recipes, and better berry quality.
 
 Open questions:
-- Roadside stand's mechanical role: better prices? passive sales over time? festival pipeline?
 - Which branches open first after the tutorial — the specific first upgrades per column?
 - Which upgrades get the multi-tier buff treatment?
 - How tightly do upgrades gate each other (greenhouse → new varieties, market → processing)?
