@@ -84,9 +84,9 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - Copper preserving pan (the pot's high-end moment; completes the equipment trilogy: mixer → blender → pan)
 - Advanced preserves recipes (require the copper pan — hard requirement carries forward)
 
-**Tier 5** (proposed 2026-10-06)
-- Bigger oven — *bigger, not industrial* (industrial clashes with the game's anti-industrial visual identity; a big farmhouse oven fits)
-- Advanced baking recipes (the next step up the baking line)
+**Tier 5** — DECIDED 2026-10-06
+- Bigger farmhouse oven — *bigger, not industrial* (industrial clashes with the game's anti-industrial visual identity)
+- Advanced baking recipes, requiring the bigger oven (hard requirement carries forward; the next step up the baking line)
 
 ## The upgrade system (in progress)
 *The core of the game — where we started, 2026-10-06.*
