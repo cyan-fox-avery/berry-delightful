@@ -12,7 +12,7 @@ The player inherits a small neglected patch of land and restores it into a beaut
 ## Structure
 - **Act I (tutorial–tier 2): restoration.** The farm goes scruffy → neat → alive; the player learns the loop, builds volume, learns to bake. A private project.
 - **Act II (tier 3+): the farm faces outward.** The roadside stand opens direct sales and starts the festival pipeline — the farm becomes part of the community, building toward something bigger.
-- Act III TBD (the festival run-up?).
+- **Act III: the festival run-up.** Preparation, the signature strawberry creation, the festival itself — the win. (Confirmed 2026-10-06.)
 
 ## Design pillars
 - **Cozy and finite.** A real ending, not endless escalation.
