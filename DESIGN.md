@@ -14,6 +14,12 @@ The player inherits a small neglected patch of land and restores it into a beaut
 - **Act II (tier 3+): the farm faces outward.** The roadside stand opens direct sales and starts the festival pipeline — the farm becomes part of the community, building toward something bigger.
 - **Act III: festival preparation.** A qualitatively different final phase — not tier 8+. A finite checklist: choose/develop the signature creation, gather what it needs, practice it, prepare the farm for visitors, decorate, stock the stand. The game converges on the festival (the win) instead of escalating forever. (Adopted from ChatGPT's review, 2026-10-06.)
 
+## Season & time (DECIDED 2026-10-06 — mechanism; details in discussion)
+- Longer season: early → mid → late summer (~90 days, June–August), player-paced.
+- The Strawberry Festival is NOT on a fixed date. It is a **countdown triggered when a specific set of conditions is met** — the trigger is the Act II → Act III transition, and the countdown window IS Act III (the festival-prep checklist). The season is a container, not a deadline; the finale arrives on the player's terms. No fail state.
+- Day loop (proposed): one free action phase per day (tend, harvest, bake, sell, buy upgrades), closed by End day; plants grow overnight. New plantings take ~3–4 days to first fruit; June-bearers produce heavily in ~8-day windows; everbearers trickle all season; greenhouse enables out-of-season growing. One simple weather forecast per day (sun/rain/heat) — cultivar personalities live here. Watering is one tap per bed; irrigation (T3) auto-waters.
+- Open: the exact trigger conditions (candidates: greenhouse operational, thriving roadside stand, all 14 cultivars grown at least once, recipes mastered…), the countdown length (~14 days as strawman), and what happens if a player never meets the conditions (gentle nudge? manual "we're ready" trigger?).
+
 ## Design pillars
 - **Cozy and finite.** A real ending, not endless escalation.
 - **The farm is the progress bar.** Every upgrade is visible: fuller greener plants, larger redder berries, neater paths, repaired fences, flowers, bees, then the greenhouse, market setup, decorations, festival bunting. Progress should be obvious just by looking.
