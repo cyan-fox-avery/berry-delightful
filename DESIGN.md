@@ -172,6 +172,15 @@ Open questions:
 - T6: Mara des Bois + Charlotte — first greenhouse cultivars; the breeding progression under glass
 - T7: Pineberry + Gariguette — surprise unlock + ultimate showpiece; festival material
 
+## Achievements (brainstorm — 2026-10-06, nothing decided)
+Principle (carried from the shark game): no grind counters — celebrate moments, discovery, craft, the pig. Fiona shares Avery's sense of humour, so funny ones are explicitly wanted.
+- Firsts: "The Old Patch" (first harvest, from the Earliglow tutorial patch), first bake, first stand sale
+- Cultivar stories: grow all 14; "The Breeder" (Mara → Charlotte); "White Wonder" (first white Pineberry); "Matchmaker" (Yamaska pollinated); "The Hollow King" (hollow Cabot king berry); "NePo Baby" (first Charlotte)
+- Craft: "Brain Freeze" (first smoothie from frozen Kents); first gluten-free bake; complete a recipe family; "Bounty Hunter" (jam from Bounty berries); "Honey Money" (sell first honey jar)
+- Pig: name the pig; "Quality Control" (pig eats a failed bake); "Basket Case" (pig asleep in a basket); "That'll Do, Pig" (Avery's — the pig tastes a number of *different* failed recipes; the pig as critic — variety, not grind); "Pig Out" (three different failed bakes in a single day)
+- Festival: "Berry Famous" (present the signature creation)
+- Weather & mishap: "Hot Mess" (harvest Honeoye in a heatwave); "Fun Size" (the tutorial's shriveled Earliglows)
+
 ## Queued design topics
 - Strawberry varieties: tier placement of the 14 keeps (proposed above) — IN DISCUSSION. Maybes decided 2026-10-06 (Earliglow kept for tutorial; other six cut). Also decides whether soil/mulch/compost is a real mechanic or cut (no filler).
 - Recipes & processing
