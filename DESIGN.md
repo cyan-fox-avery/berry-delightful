@@ -68,6 +68,10 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - More strawberry plants (RECURRING)
 - Greenhouse glazing (the aspirational line continues; one step from planted)
 
+**Tier 7** — DECIDED 2026-10-06
+- More strawberry plants (RECURRING)
+- Greenhouse planted (the aspirational line completes — the greenhouse is fully operational)
+
 ### Kitchen upgrades
 **Tier 1** (post-tutorial) — DECIDED 2026-10-06
 - A couple of new recipes — complexity and ingredient count rise each tier as the player gains skill (the recipe complexity curve)
