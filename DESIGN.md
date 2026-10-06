@@ -100,6 +100,10 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - New greenhouse varieties (the greenhouse begins feeding the kitchen)
 - New recipes using the new varieties (complexity curve continues)
 
+**Tier 7** — DECIDED 2026-10-06
+- Rare / out-of-season greenhouse varieties
+- Showcase recipes built around them (complexity curve continues)
+
 ## The upgrade system (in progress)
 *The core of the game — where we started, 2026-10-06.*
 
