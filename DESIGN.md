@@ -98,6 +98,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - New baking recipes — cakes, tarts (the batter family); tier-2 recipes require the tier-2 mixer (hard requirement at tier level — one coherent beat, not two parallel tracks)
 - Honey recipes (cakes, tarts using hive honey) — the beehive's cross-column ingredient at work
 - Recipe complexity curve continues: more ingredients, more skill
+- T2 recipes (DECIDED 2026-10-06): 1) **Jam Thumbprints** (mixer — cookie dough + T1 strawberry jam; recipes that eat other recipes, a production chain; simplest); 2) **Honey Strawberry Cake** (mixer — hive honey + Cavendish; the cross-column showcase; creaming method); 3) **Strawberry Custard Tart** (mixer — tart shell + vanilla custard + glazed Annapolis; the pretty one, most complex; foreshadows the festival signature creation). Relative value ~55/65/80 — each tier's simplest beats the last tier's best. Kent sits out fresh; its destiny is T3's frozen smoothies.
 
 **Tier 3** — DECIDED 2026-10-06
 - High-end blender (staggered from tier 2)
