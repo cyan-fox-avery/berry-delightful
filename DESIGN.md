@@ -92,6 +92,10 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - Bigger farmhouse oven — *bigger, not industrial* (industrial clashes with the game's anti-industrial visual identity)
 - Advanced baking recipes, requiring the bigger oven (hard requirement carries forward; the next step up the baking line)
 
+**Tier 6** — DECIDED 2026-10-06
+- New greenhouse varieties (the greenhouse begins feeding the kitchen)
+- New recipes using the new varieties (complexity curve continues)
+
 ## The upgrade system (in progress)
 *The core of the game — where we started, 2026-10-06.*
 
