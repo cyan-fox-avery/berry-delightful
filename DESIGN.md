@@ -60,6 +60,10 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - More strawberry plants (RECURRING)
 - Greenhouse foundation (held since tier 1: the aspirational multi-tier line begins — a down payment that feels exciting now that the player is invested; kept to two items so the tier breathes)
 
+**Tier 5** — DECIDED 2026-10-06
+- More strawberry plants (RECURRING)
+- Greenhouse frame (the aspirational line continues)
+
 ### Kitchen upgrades
 **Tier 1** (post-tutorial) — DECIDED 2026-10-06
 - A couple of new recipes — complexity and ingredient count rise each tier as the player gains skill (the recipe complexity curve)
