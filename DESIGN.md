@@ -89,7 +89,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - A couple of new recipes — complexity and ingredient count rise each tier as the player gains skill (the recipe complexity curve)
 - Appliances: all three — stand mixer, decent blender, big boiling pot (breadth-first foundation; depth comes later)
   - Mixer and blender are multi-tier lines: high-end mixer at tier 2, high-end blender at tier 3
-- Starter recipes (DECIDED 2026-10-06): 1) **Strawberry Compote** (pot — the tutorial bake; scruffy Earliglows + sugar; teaches cooking transforms); 2) **Strawberry Shortcake** (mixer — Annapolis; the iconic first real bake); 3) **Fresh Berry Smoothie** (blender — Honeoye; foreshadows the T3 frozen-Kent smoothie upgrade). Each T1 berry gets its signature use, teaching "real varieties, ideal uses" from day one. GF is a first-class per-recipe version (e.g. almond-flour shortcake), not a separate list. Relative value: compote < smoothie < shortcake.
+- Starter recipes (DECIDED 2026-10-06): 1) **Strawberry Compote** (pot — the tutorial bake; scruffy Earliglows + sugar; teaches cooking transforms); 2) **Strawberry Shortcake** (mixer — Annapolis; the iconic first real bake); 3) **Fresh Berry Smoothie** (blender — Honeoye; foreshadows the T3 frozen-Kent smoothie upgrade); 4) **Basic Strawberry Jam** (pot — unlocks early in T1; the iconic preserve can't wait until T3). Each T1 berry gets its signature use, teaching "real varieties, ideal uses" from day one. GF is a first-class per-recipe version (e.g. almond-flour shortcake), not a separate list. Relative value: compote < smoothie < jam < shortcake.
 
 **Tier 2** — DECIDED 2026-10-06
 - High-end stand mixer (staggered: the blender's high-end version comes at tier 3)
@@ -99,7 +99,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 
 **Tier 3** — DECIDED 2026-10-06
 - High-end blender (staggered from tier 2)
-- New drinks recipes (require the high-end blender — hard requirement carries forward) + new preserves recipes (use the tier-1 big boiling pot; gated by tier/skill)
+- New drinks recipes (require the high-end blender — hard requirement carries forward) + expanded preserves line (varietal jams — Jewel jam, Bounty jam as the benchmark — using the tier-1 big boiling pot; gated by tier/skill). Basic jam unlocked back at T1; T3 is where preserves get serious.
 - The pot's own high-end moment deferred — let tiers breathe, don't overfill
 
 **Tier 4** — DECIDED 2026-10-06
@@ -167,7 +167,7 @@ Open questions:
 **Tier placement — PROPOSED (not yet decided; awaiting Avery's reaction):**
 - T1: Annapolis + Honeoye — early harvest teaches the loop fast; reliable vs heat-fussy contrast
 - T2: Cavendish + Kent — mid-season volume; Kent bridges into T3 preserves
-- T3: Jewel + Bounty — flavour favourite for the new roadside stand; the processing berry as preserves begin
+- T3: Jewel + Bounty — flavour favourite for the new roadside stand; the processing berry as preserves get serious (varietal jams)
 - T4: Cabot + AC Yamaska — stand show-off novelty; pollinator mechanic calls back to T2's bees
 - T5: Seascape + Albion — August-gap everbearers; Albion foreshadows the greenhouse; rain contrast (splits vs shrugs)
 - T6: Mara des Bois + Charlotte — first greenhouse cultivars; the breeding progression under glass
