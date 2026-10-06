@@ -19,6 +19,7 @@ The player inherits a small neglected patch of land and restores it into a beaut
 - The Strawberry Festival is NOT on a fixed date. It is a **countdown triggered when a specific set of conditions is met** — the trigger is the Act II → Act III transition, and the countdown window IS Act III (the festival-prep checklist). The season is a container, not a deadline; the finale arrives on the player's terms. No fail state.
 - **The Festival Committee's Readiness List** (DECIDED 2026-10-06; shown in-game from Act II): 1) farm restored to T4; 2) roadside stand open and serving; 3) greenhouse operational; 4) a signature festival creation baked (T6/T7 showcase recipe — the "Berry Famous" moment). All four met → formal invitation → **14-day countdown** → festival day as a short playable vignette (walk the fair, present the creation, spot the cameos) → free play continues after. Structural milestones only, nothing grindy.
 - **Nudge** (DECIDED 2026-10-06): if ~day 50 arrives with the list incomplete, the committee's letter arrives warmly noting what's missing — diegetic, no fail state.
+- **Open (ChatGPT's review, 2026-10-06):** does T7 complete Act II (Option A — festival requires the full tree, Pineberry + Gariguette come to the festival) or is T7 optional mastery with the story finishable at T6 (Option B)? ChatGPT leans A. Awaiting Avery.
 - Day loop (proposed): one free action phase per day (tend, harvest, bake, sell, buy upgrades), closed by End day; plants grow overnight. New plantings take ~3–4 days to first fruit; June-bearers produce heavily in ~8-day windows; everbearers trickle all season; greenhouse enables out-of-season growing. One simple weather forecast per day (sun/rain/heat) — cultivar personalities live here. Watering is one tap per bed; irrigation (T3) auto-waters.
 
 ## Day loop & tutorial (DECIDED 2026-10-06)
@@ -35,6 +36,7 @@ The player inherits a small neglected patch of land and restores it into a beaut
 - **Light learning.** Real cultivation, pollinator, ecology, and food facts — a dusting, never homework.
 - **The pig.** Canon pet pig, named by the player, economically useless, delightful — wanders the farm, sleeps in straw, investigates baskets, gets muddy, appears in inconvenient places, provides personality. Failed bakes go to the pig, who considers this an excellent outcome.
 - **The festival is the win.** The season builds to the town's annual Strawberry Festival: the restored farm opens to visitors and the player presents a signature strawberry creation using everything learned. The farm stays playable afterward.
+- **A gift, not a job.** Passive systems should feel like the farm giving you something, never like another obligation — "a jar that fills every few days is a gift; a jar you must tend is a job." (From Milo via ChatGPT, adopted 2026-10-06 — use as a design test for every ambient system.)
 
 ## Setting
 **Starvale Farm** — a fictionalized echo of Stardale Farm, the real strawberry farm near Avery and Fiona's childhood home where they used to pick strawberries together.
@@ -147,9 +149,9 @@ Open questions:
 - Unit: baskets of berries. Coins only.
 - Fresh basket sale: Earliglow 5, T1 8, scaling gently to T7 24.
 - Bakes (sell / pantry cost, 1 basket each): compote 20/2, smoothie 25/3, jam 30/3, shortcake 40/5. Baking beats fresh-selling ~1.5–3x — the engine.
-- New planting: 3 days to first fruit. June-bearer bed: 2 baskets/day over an 8-day window, then done. Everbearer bed: 1 basket every 2 days, all season. Tutorial Earliglow patch: 1 basket/day for 6 days, then done.
+- New planting: 3 days to first fruit. June-bearer bed: 2 baskets/day over an 8-day window, then done. Everbearer bed: 1 basket every 2 days, all season. Tutorial Earliglow patch: 2 baskets/day for 6 days, then done — a big old patch, just neglected ("this old patch still gave us enough to start again").
 - Start: 20 coins. T1: Annapolis planting 60, raised boxes 80. Tier cost curve per major upgrade ≈ 100 × 1.7^(tier−1) (T2 ~170 … T7 ~2410).
-- Pacing: T2 reachable ~day 12–14; roughly a tier every 10–14 days; T7 near season's end. Festival is condition-triggered, so pacing stays player-driven.
+- Pacing: T2 reachable ~day 10–12; roughly a tier every 10–14 days; T7 near season's end. Festival is condition-triggered, so pacing stays player-driven.
 
 ## Strawberry varieties — roster (DECIDED 2026-10-06, Avery + ChatGPT)
 *Roster rule: every cultivar earns its place through a distinct identity, mechanic, use, visual, climate behaviour, or story hook — no "another good red strawberry." 14 keeps ≈ 2 per tier across T1–T7.*
@@ -175,11 +177,11 @@ Open questions:
 
 **Tier placement — PROPOSED (not yet decided; awaiting Avery's reaction):**
 - T1: Annapolis + Honeoye — early harvest teaches the loop fast; reliable vs heat-fussy contrast
-- T2: Cavendish + Kent — mid-season volume; Kent bridges into T3 preserves
+- T2: Cavendish + Kent — mid-season volume; Kent bridges into T3 drinks/smoothies (freezes exceptionally well for the high-end blender; frozen stash visually distinct in the kitchen — frost icon — so "frozen" reads as an ingredient state, not hidden metadata; adopted from Milo, +1'd by ChatGPT, 2026-10-06)
 - T3: Jewel + Bounty — flavour favourite for the new roadside stand; the processing berry as preserves get serious (varietal jams)
 - T4: Cabot + AC Yamaska — stand show-off novelty; pollinator mechanic calls back to T2's bees
 - T5: Seascape + Albion — August-gap everbearers; Albion foreshadows the greenhouse; rain contrast (splits vs shrugs)
-- T6: Mara des Bois + Charlotte — first greenhouse cultivars; the breeding progression under glass
+- T6: Mara des Bois + Charlotte — greenhouse-supported specialty cultivars (not greenhouse-only in the region — the glass is about reliability, not requirement); the breeding progression under glass
 - T7: Pineberry + Gariguette — surprise unlock + ultimate showpiece; festival material
 
 ## Achievements (brainstorm — 2026-10-06, nothing decided)
