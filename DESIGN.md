@@ -128,8 +128,39 @@ Open questions:
 - Which upgrades get the multi-tier buff treatment?
 - How tightly do upgrades gate each other (greenhouse → new varieties, market → processing)?
 
+## Strawberry varieties — roster (DECIDED 2026-10-06, Avery + ChatGPT)
+*Roster rule: every cultivar earns its place through a distinct identity, mechanic, use, visual, climate behaviour, or story hook — no "another good red strawberry." 14 keeps ≈ 2 per tier across T1–T7.*
+
+**KEEPS (14):**
+- Annapolis — early; medium-large berries that hold size pick after pick; zone 3; AAFC Kentville
+- Honeoye — early; perfume-like flavour, best in cool weather, bland in heat
+- Cavendish — mid; top performer in QC/ON/NS trials; very productive
+- Kent — mid; sweet/mild, zone 3a hardy; freezes exceptionally well (freezing hook needs a home — open thread)
+- Jewel — mid; Quebec flavour-panel favourite
+- Cabot — mid; HUGE fruit, king berries lumpy/sometimes hollow; the show-off
+- Bounty — late; the processing standard since 1972; jam/preserves/freezing
+- AC Yamaska — late; huge glossy Québec berry; male-sterile flowers need a pollinator variety planted nearby (MECHANIC); -30°C hardy
+- Seascape — day-neutral; the August gap variety; splits in wet weather
+- Albion — day-neutral; Canadian greenhouse standard; shrugs off rainy spells
+- Mara des Bois — intensely aromatic gourmet; tiny berries, wild-strawberry perfume
+- Charlotte — Mara des Bois × Cal 19; bigger, firmer, zone 3 hardy — the breeding-history progression (Mara → Charlotte teaches real plant breeding through play)
+- Pineberry 'White Carolina' — white fruit, red seeds, pineapple note; the surprise unlock
+- Gariguette — delicate aromatic French showpiece; greenhouse-required; justifies the greenhouse
+
+**MAYBE (7 — likely cut):** Earliglow, Wendy, Darselect, Valley Sunset, Tristar, Evie-2, Sweet Charlie. (Earliglow floated as the tutorial's old neglected variety — the classic past its prime.)
+**PASS (3):** Glooscap, Tribute, Camarosa.
+
+**Tier placement — PROPOSED (not yet decided; awaiting Avery's reaction):**
+- T1: Annapolis + Honeoye — early harvest teaches the loop fast; reliable vs heat-fussy contrast
+- T2: Cavendish + Kent — mid-season volume; Kent bridges into T3 preserves
+- T3: Jewel + Bounty — flavour favourite for the new roadside stand; the processing berry as preserves begin
+- T4: Cabot + AC Yamaska — stand show-off novelty; pollinator mechanic calls back to T2's bees
+- T5: Seascape + Albion — August-gap everbearers; Albion foreshadows the greenhouse; rain contrast (splits vs shrugs)
+- T6: Mara des Bois + Charlotte — first greenhouse cultivars; the breeding progression under glass
+- T7: Pineberry + Gariguette — surprise unlock + ultimate showpiece; festival material
+
 ## Queued design topics
-- Strawberry varieties (roster + characteristics) — NEXT UP. Also decides: early-tier cultivar placement (T1–T3) and whether soil/mulch/compost is a real mechanic or cut (no filler).
+- Strawberry varieties: tier placement of the 14 keeps (proposed above) + final call on the 7 maybes — IN DISCUSSION. Also decides whether soil/mulch/compost is a real mechanic or cut (no filler).
 - Recipes & processing
 - Act III festival-prep phase & the signature creation (finite checklist design)
 - The pig (name? personality? idle animations?)
