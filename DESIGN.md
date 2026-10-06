@@ -67,6 +67,11 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - New baking recipes — cakes, tarts (the batter family); tier-2 recipes require the tier-2 mixer (hard requirement at tier level — one coherent beat, not two parallel tracks)
 - Recipe complexity curve continues: more ingredients, more skill
 
+**Tier 3** — DECIDED 2026-10-06
+- High-end blender (staggered from tier 2)
+- New drinks recipes (require the high-end blender — hard requirement carries forward) + new preserves recipes (use the tier-1 big boiling pot; gated by tier/skill)
+- The pot's own high-end moment deferred — let tiers breathe, don't overfill
+
 ## The upgrade system (in progress)
 *The core of the game — where we started, 2026-10-06.*
 
@@ -80,6 +85,7 @@ Decided (2026-10-06):
 - **Two columns.** The upgrade tab has two columns: kitchen upgrades and farming upgrades.
 - **Tiers set cost.** Each upgrade has a level/tier which determines its cost — the balancing lever. Most upgrades are single-tier (one-and-done); a few have higher tiers as subsequent buffs.
 - **Upgrades feed the baking in every way:** new varieties, new ingredients, better kitchen equipment, new recipes, and better berry quality.
+- **Let tiers breathe.** Don't overfill a tier; each tier should have room. (2026-10-06)
 
 Open questions:
 - Which branches open first after the tutorial — the specific first upgrades per column?
