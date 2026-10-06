@@ -89,6 +89,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - A couple of new recipes — complexity and ingredient count rise each tier as the player gains skill (the recipe complexity curve)
 - Appliances: all three — stand mixer, decent blender, big boiling pot (breadth-first foundation; depth comes later)
   - Mixer and blender are multi-tier lines: high-end mixer at tier 2, high-end blender at tier 3
+- Starter recipes (DECIDED 2026-10-06): 1) **Strawberry Compote** (pot — the tutorial bake; scruffy Earliglows + sugar; teaches cooking transforms); 2) **Strawberry Shortcake** (mixer — Annapolis; the iconic first real bake); 3) **Fresh Berry Smoothie** (blender — Honeoye; foreshadows the T3 frozen-Kent smoothie upgrade). Each T1 berry gets its signature use, teaching "real varieties, ideal uses" from day one. GF is a first-class per-recipe version (e.g. almond-flour shortcake), not a separate list. Relative value: compote < smoothie < shortcake.
 
 **Tier 2** — DECIDED 2026-10-06
 - High-end stand mixer (staggered: the blender's high-end version comes at tier 3)
