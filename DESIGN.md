@@ -147,7 +147,7 @@ Open questions:
 - Pineberry 'White Carolina' — white fruit, red seeds, pineapple note; the surprise unlock
 - Gariguette — delicate aromatic French showpiece; greenhouse-required; justifies the greenhouse
 
-**MAYBE (7 — likely cut):** Earliglow, Wendy, Darselect, Valley Sunset, Tristar, Evie-2, Sweet Charlie. (Earliglow floated as the tutorial's old neglected variety — the classic past its prime.)
+**MAYBE → DECIDED 2026-10-06:** Earliglow kept as the tutorial's old neglected variety — the classic past its prime, berries shrinking — giving the restoration a "what was here before" texture. Wendy, Darselect, Valley Sunset, Tristar, Evie-2, Sweet Charlie cut. (Roster is now 15 named cultivars: 14 tiered + Earliglow in the tutorial.)
 **PASS (3):** Glooscap, Tribute, Camarosa.
 
 **Tier placement — PROPOSED (not yet decided; awaiting Avery's reaction):**
@@ -160,7 +160,7 @@ Open questions:
 - T7: Pineberry + Gariguette — surprise unlock + ultimate showpiece; festival material
 
 ## Queued design topics
-- Strawberry varieties: tier placement of the 14 keeps (proposed above) + final call on the 7 maybes — IN DISCUSSION. Also decides whether soil/mulch/compost is a real mechanic or cut (no filler).
+- Strawberry varieties: tier placement of the 14 keeps (proposed above) — IN DISCUSSION. Maybes decided 2026-10-06 (Earliglow kept for tutorial; other six cut). Also decides whether soil/mulch/compost is a real mechanic or cut (no filler).
 - Recipes & processing
 - Act III festival-prep phase & the signature creation (finite checklist design)
 - The pig (name? personality? idle animations?)
