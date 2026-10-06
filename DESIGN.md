@@ -46,6 +46,11 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - More strawberry plants (RECURRING)
 - Beehive + pollinator garden (tier 1 made the farm neat, tier 2 makes it alive — flowers and bees arrive; most on-brief pick per the visual identity; converts tier-1 volume into quality; best light-learning hook. Irrigation held for tier 3; greenhouse foundation for tier 3–4.)
 
+**Tier 3** — DECIDED 2026-10-06
+- More strawberry plants (RECURRING)
+- Irrigation (held from earlier tiers: growing *better* now that the farm has volume and pollinators)
+- Roadside stand (NEW unlock at tier 3: the farm's first direct-sales structure — produce-stand energy straight from the visual identity; hand-painted sign, crates of berries. Possible mechanical seed of the festival.)
+
 ### Kitchen upgrades
 **Tier 1** (post-tutorial) — DECIDED 2026-10-06
 - A couple of new recipes — complexity and ingredient count rise each tier as the player gains skill (the recipe complexity curve)
@@ -72,6 +77,7 @@ Decided (2026-10-06):
 - **Upgrades feed the baking in every way:** new varieties, new ingredients, better kitchen equipment, new recipes, and better berry quality.
 
 Open questions:
+- Roadside stand's mechanical role: better prices? passive sales over time? festival pipeline?
 - Which branches open first after the tutorial — the specific first upgrades per column?
 - Which upgrades get the multi-tier buff treatment?
 - How tightly do upgrades gate each other (greenhouse → new varieties, market → processing)?
