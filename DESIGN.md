@@ -142,6 +142,14 @@ Open questions:
 - Which upgrades get the multi-tier buff treatment?
 - How tightly do upgrades gate each other (greenhouse → new varieties, market → processing)?
 
+## First-pass economy (DECIDED 2026-10-06 — first-pass, tunable; the prototype validates)
+- Unit: baskets of berries. Coins only.
+- Fresh basket sale: Earliglow 5, T1 8, scaling gently to T7 24.
+- Bakes (sell / pantry cost, 1 basket each): compote 20/2, smoothie 25/3, jam 30/3, shortcake 40/5. Baking beats fresh-selling ~1.5–3x — the engine.
+- New planting: 3 days to first fruit. June-bearer bed: 2 baskets/day over an 8-day window, then done. Everbearer bed: 1 basket every 2 days, all season. Tutorial Earliglow patch: 1 basket/day for 6 days, then done.
+- Start: 20 coins. T1: Annapolis planting 60, raised boxes 80. Tier cost curve per major upgrade ≈ 100 × 1.7^(tier−1) (T2 ~170 … T7 ~2410).
+- Pacing: T2 reachable ~day 12–14; roughly a tier every 10–14 days; T7 near season's end. Festival is condition-triggered, so pacing stays player-driven.
+
 ## Strawberry varieties — roster (DECIDED 2026-10-06, Avery + ChatGPT)
 *Roster rule: every cultivar earns its place through a distinct identity, mechanic, use, visual, climate behaviour, or story hook — no "another good red strawberry." 14 keeps ≈ 2 per tier across T1–T7.*
 
