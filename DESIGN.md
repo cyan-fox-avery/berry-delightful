@@ -104,6 +104,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - High-end blender (staggered from tier 2)
 - New drinks recipes (require the high-end blender — hard requirement carries forward) + expanded preserves line (varietal jams — Jewel jam, Bounty jam as the benchmark — using the tier-1 big boiling pot; gated by tier/skill). Basic jam unlocked back at T1; T3 is where preserves get serious.
 - The pot's own high-end moment deferred — let tiers breathe, don't overfill
+- T3 recipes (DECIDED 2026-10-06): drinks — 1) **Sparkling Strawberry Lemonade** (Jewel + lemon; the flavour favourite's drink); 2) **Frozen Kent Smoothie** (frozen Kent + yogurt + hive honey; the three-tier chain paying off; "Brain Freeze" lives here); varietal jams — 3) **Jewel Jam**; 4) **Bounty Jam** (the benchmark; "Bounty Hunter" lives here). Relative value ~90/100/110/120. Whole tier naturally GF. Jewel is T3's flavour star across both lines, pairing with the new roadside stand.
 
 **Tier 4** — DECIDED 2026-10-06
 - Copper preserving pan (the pot's high-end moment; completes the equipment trilogy: mixer → blender → pan)
