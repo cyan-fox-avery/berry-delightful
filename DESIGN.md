@@ -76,6 +76,14 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - New drinks recipes (require the high-end blender — hard requirement carries forward) + new preserves recipes (use the tier-1 big boiling pot; gated by tier/skill)
 - The pot's own high-end moment deferred — let tiers breathe, don't overfill
 
+**Tier 4** — DECIDED 2026-10-06
+- Copper preserving pan (the pot's high-end moment; completes the equipment trilogy: mixer → blender → pan)
+- Advanced preserves recipes (require the copper pan — hard requirement carries forward)
+
+**Tier 5** (proposed 2026-10-06)
+- Bigger oven — *bigger, not industrial* (industrial clashes with the game's anti-industrial visual identity; a big farmhouse oven fits)
+- Advanced baking recipes (the next step up the baking line)
+
 ## The upgrade system (in progress)
 *The core of the game — where we started, 2026-10-06.*
 
