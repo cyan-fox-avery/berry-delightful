@@ -42,8 +42,9 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - More strawberry plants (RECURRING — a version of this at every tier; the farm literally grows tier by tier)
 - Raised planter boxes (picked over irrigation and greenhouse foundation: pairs with more-plants, biggest immediate visual payoff, feeds the bake loop with volume; irrigation fits tier 2–3, greenhouse foundation later as the aspirational line)
 
-**Tier 2**
-- *(open)*
+**Tier 2** — DECIDED 2026-10-06
+- More strawberry plants (RECURRING)
+- Beehive + pollinator garden (tier 1 made the farm neat, tier 2 makes it alive — flowers and bees arrive; most on-brief pick per the visual identity; converts tier-1 volume into quality; best light-learning hook. Irrigation held for tier 3; greenhouse foundation for tier 3–4.)
 
 ### Kitchen upgrades
 **Tier 1** (post-tutorial) — DECIDED 2026-10-06
