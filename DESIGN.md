@@ -56,6 +56,10 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - Irrigation (held from earlier tiers: growing *better* now that the farm has volume and pollinators)
 - Roadside stand (NEW unlock at tier 3: the farm's first direct-sales structure — produce-stand energy straight from the visual identity; hand-painted sign, crates of berries. Does all three: better prices than default selling, passive sales ticking over while you bake, and the start of the festival pipeline. Opens Act II.)
 
+**Tier 4** — DECIDED 2026-10-06
+- More strawberry plants (RECURRING)
+- Greenhouse foundation (held since tier 1: the aspirational multi-tier line begins — a down payment that feels exciting now that the player is invested; kept to two items so the tier breathes)
+
 ### Kitchen upgrades
 **Tier 1** (post-tutorial) — DECIDED 2026-10-06
 - A couple of new recipes — complexity and ingredient count rise each tier as the player gains skill (the recipe complexity curve)
