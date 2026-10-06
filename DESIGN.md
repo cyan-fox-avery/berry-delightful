@@ -12,7 +12,7 @@ The player inherits a small neglected patch of land and restores it into a beaut
 ## Structure
 - **Act I (tutorial–tier 2): restoration.** The farm goes scruffy → neat → alive; the player learns the loop, builds volume, learns to bake. A private project.
 - **Act II (tier 3+): the farm faces outward.** The roadside stand opens direct sales and starts the festival pipeline — the farm becomes part of the community, building toward something bigger.
-- **Act III: the festival run-up.** Preparation, the signature strawberry creation, the festival itself — the win. (Confirmed 2026-10-06.)
+- **Act III: festival preparation.** A qualitatively different final phase — not tier 8+. A finite checklist: choose/develop the signature creation, gather what it needs, practice it, prepare the farm for visitors, decorate, stock the stand. The game converges on the festival (the win) instead of escalating forever. (Adopted from ChatGPT's review, 2026-10-06.)
 
 ## Design pillars
 - **Cozy and finite.** A real ending, not endless escalation.
@@ -40,7 +40,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 **Emotional target:** summer memories, picking berries with family, warm fields, sunshine, farm stands, jam jars, clouds, community festivals, taking care of something until it becomes beautiful. The formula: cute pastel strawberry game + early-2000s Eastern Ontario farm community + nostalgic childhood summer memory. (From the Avery + ChatGPT visual-identity session, 2026-10-06.)
 
 ## Upgrade tree (building — tier by tier, alternating columns)
-*Method decided 2026-10-06: build the upgrade foundation first, alternating kitchen/farming per tier so each tier lands as a matched set. Per upgrade we track: tier (= cost), what it unlocks (2+), and its visual change.*
+*Method decided 2026-10-06: build the upgrade foundation first, alternating kitchen/farming per tier so each tier lands as a matched set. Per upgrade we track: tier (= cost), what it unlocks, and its visual change. The tree caps at tier 7 (adopted from ChatGPT's review, 2026-10-06).*
 
 ### Farming upgrades
 **Tier 1** (post-tutorial) — DECIDED 2026-10-06
@@ -64,13 +64,13 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - More strawberry plants (RECURRING)
 - Greenhouse frame (the aspirational line continues)
 
-**Tier 6** — DECIDED 2026-10-06
+**Tier 6** — DECIDED 2026-10-06 (revised per ChatGPT's review)
 - More strawberry plants (RECURRING)
-- Greenhouse glazing (the aspirational line continues; one step from planted)
+- Greenhouse glazing + first growing beds (the greenhouse becomes operational — the midpoint payoff of the build)
 
-**Tier 7** — DECIDED 2026-10-06
+**Tier 7** — DECIDED 2026-10-06 (revised per ChatGPT's review; tree cap)
 - More strawberry plants (RECURRING)
-- Greenhouse planted (the aspirational line completes — the greenhouse is fully operational)
+- Greenhouse improvement/expansion (enables rare and out-of-season varieties — the specialty payoff; the aspirational line completes)
 
 ### Kitchen upgrades
 **Tier 1** (post-tutorial) — DECIDED 2026-10-06
@@ -110,7 +110,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 Decided (2026-10-06):
 - **Checklist-simple.** Upgrades are deliberately simple — a branching checklist, not a strategy layer. The game's complexity lives in the baking/cooking, which is how the player earns money.
 - **One currency: coins.** Earned from selling harvests and (mostly) baked/processed goods.
-- **Branching tree.** Each upgrade unlocks two or more new ones. Most upgrades are one-and-done (single purchase); a few have subsequent buff tiers after the first purchase.
+- **Two-lane progression with prerequisites.** The upgrade tab is two lanes (kitchen | farming) with prerequisite relationships — a purchased upgrade can unlock one or several later nodes, but nodes don't need to branch mechanically every time. (Revised 2026-10-06 from "each unlocks 2+": the ladder is the real design and it's better.) Most upgrades are one-and-done (single purchase); a few have subsequent buff tiers.
 - Upgrade areas: soil, irrigation, pollination, tools, growing methods — then greenhouse, market setup, decorations, festival bunting.
 - Each upgrade changes the farm's artwork, not just its numbers — the tree is the pacing device, the farm's visible transformation is the reward.
 - **The tutorial is the trunk.** It refurbishes the farm from neglected to operational while teaching the loop. The player leaves it with: inexpensive kitchen appliances and tools, a modest amount and variety of ingredients (enough for 2–4 recipes to start), and a few scruffy strawberry patches. The first upgrade branches open from there.
@@ -118,16 +118,20 @@ Decided (2026-10-06):
 - **Tiers set cost.** Each upgrade has a level/tier which determines its cost — the balancing lever. Most upgrades are single-tier (one-and-done); a few have higher tiers as subsequent buffs.
 - **Upgrades feed the baking in every way:** new varieties, new ingredients, better kitchen equipment, new recipes, and better berry quality.
 - **Let tiers breathe.** Don't overfill a tier; each tier should have room. (2026-10-06)
+- **Coins are the only currency, but not the only pacing.** Some upgrades also carry prerequisite gates ("own X", "have baked one of these", "roadside stand open", "greenhouse operational") — legible, shown plainly. Gates, not extra currencies. (Adopted from ChatGPT's review, 2026-10-06.)
+- **Expansion must not multiply chores.** The farm gets more *capable* as it gets bigger; later farming upgrades make a larger farm easier to manage (irrigation at T3 already does this). Ten times the plants must not mean ten times the watering. (Adopted from ChatGPT's review, 2026-10-06.)
+- **Real varieties early.** Real strawberry cultivars enter from tier 1–3 (roster TBD in the varieties pass); the greenhouse is where unusual/delicate/rare/out-of-season varieties become possible — not where varieties first get interesting. (Adopted from ChatGPT's review, 2026-10-06.)
+- **Ambient farm development.** Small non-purchased environmental changes around tiers (wildflowers spreading, seasonal touches) keep the farm developing while big projects rise — no filler nodes. (Adopted from ChatGPT's review, 2026-10-06.)
 
 Open questions:
-- Which branches open first after the tutorial — the specific first upgrades per column?
+- Soil/mulch/compost: real mechanic or cut? (decide during the varieties pass — no filler)
 - Which upgrades get the multi-tier buff treatment?
 - How tightly do upgrades gate each other (greenhouse → new varieties, market → processing)?
 
 ## Queued design topics
-- Strawberry varieties (roster + characteristics)
+- Strawberry varieties (roster + characteristics) — NEXT UP. Also decides: early-tier cultivar placement (T1–T3) and whether soil/mulch/compost is a real mechanic or cut (no filler).
 - Recipes & processing
-- Festival structure & the signature creation
+- Act III festival-prep phase & the signature creation (finite checklist design)
 - The pig (name? personality? idle animations?)
 - Season structure & pacing
 - Educational layer (how the facts surface)
