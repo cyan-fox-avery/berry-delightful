@@ -12,7 +12,7 @@ The player inherits a small neglected patch of land and restores it into a beaut
 ## Structure
 - **Act I (tutorial–tier 2): restoration.** The farm goes scruffy → neat → alive; the player learns the loop, builds volume, learns to bake. A private project.
 - **Act II (tier 3+): the farm faces outward.** The roadside stand opens direct sales and starts the festival pipeline — the farm becomes part of the community, building toward something bigger.
-- **Act III: festival preparation.** A qualitatively different final phase — not tier 8+. A finite checklist: choose/develop the signature creation, gather what it needs, practice it, prepare the farm for visitors, decorate, stock the stand. The game converges on the festival (the win) instead of escalating forever. (Adopted from ChatGPT's review, 2026-10-06.)
+- **Act III: festival preparation.** A qualitatively different final phase — not tier 8+. A finite checklist: choose/develop the signature creation, gather what it needs, practice it, prepare the farm for visitors, decorate, stock the stand. The game converges on the festival (the win) instead of escalating forever. (Adopted from ChatGPT's review, 2026-10-06. Design note from Milo, 2026-10-06: the phase should feel like the farm *showing off* everything the player built.)
 
 ## Season & time (DECIDED 2026-10-06 — mechanism; details in discussion)
 - Longer season: early → mid → late summer (~90 days, June–August), player-paced.
@@ -55,7 +55,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 
 **Tier 2** — DECIDED 2026-10-06
 - More strawberry plants (RECURRING)
-- Beehive + pollinator garden (tier 1 made the farm neat, tier 2 makes it alive — flowers and bees arrive; most on-brief pick per the visual identity; converts tier-1 volume into quality; best light-learning hook. Irrigation held for tier 3; greenhouse foundation for tier 3–4.)
+- Beehive + pollinator garden (tier 1 made the farm neat, tier 2 makes it alive — flowers and bees arrive; most on-brief pick per the visual identity; converts tier-1 volume into quality; best light-learning hook. Irrigation held for tier 3; greenhouse foundation for tier 3–4. The hive also produces honey, passively — a jar fills every few days, not a new chore — as a baking ingredient feeding the kitchen column. Cross-column idea from Milo, adopted 2026-10-06.)
 
 **Tier 3** — DECIDED 2026-10-06
 - More strawberry plants (RECURRING)
@@ -87,6 +87,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 **Tier 2** — DECIDED 2026-10-06
 - High-end stand mixer (staggered: the blender's high-end version comes at tier 3)
 - New baking recipes — cakes, tarts (the batter family); tier-2 recipes require the tier-2 mixer (hard requirement at tier level — one coherent beat, not two parallel tracks)
+- Honey recipes (cakes, tarts using hive honey) — the beehive's cross-column ingredient at work
 - Recipe complexity curve continues: more ingredients, more skill
 
 **Tier 3** — DECIDED 2026-10-06
@@ -141,7 +142,7 @@ Open questions:
 - Annapolis — early; medium-large berries that hold size pick after pick; zone 3; AAFC Kentville
 - Honeoye — early; perfume-like flavour, best in cool weather, bland in heat
 - Cavendish — mid; top performer in QC/ON/NS trials; very productive
-- Kent — mid; sweet/mild, zone 3a hardy; freezes exceptionally well (freezing hook needs a home — open thread)
+- Kent — mid; sweet/mild, zone 3a hardy; freezes exceptionally well → the smoothie berry: frozen Kent berries blend into smoothies (T3 drinks via the high-end blender). Plant at T2, smoothies at T3. (Avery's solve, 2026-10-06 — freezing as an ingredient state, not season extension.)
 - Jewel — mid; Quebec flavour-panel favourite
 - Cabot — mid; HUGE fruit, king berries lumpy/sometimes hollow; the show-off
 - Bounty — late; the processing standard since 1972; jam/preserves/freezing
