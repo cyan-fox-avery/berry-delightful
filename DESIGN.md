@@ -50,10 +50,12 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 **Tier 1** (post-tutorial) — DECIDED 2026-10-06
 - A couple of new recipes — complexity and ingredient count rise each tier as the player gains skill (the recipe complexity curve)
 - Appliances: all three — stand mixer, decent blender, big boiling pot (breadth-first foundation; depth comes later)
-  - Mixer and blender are multi-tier lines: high-end versions unlock at higher tiers
+  - Mixer and blender are multi-tier lines: high-end mixer at tier 2, high-end blender at tier 3
 
-**Tier 2**
-- *(open)*
+**Tier 2** — DECIDED 2026-10-06
+- High-end stand mixer (staggered: the blender's high-end version comes at tier 3)
+- New baking recipes — cakes, tarts (the batter family); tier-2 recipes require the tier-2 mixer (hard requirement at tier level — one coherent beat, not two parallel tracks)
+- Recipe complexity curve continues: more ingredients, more skill
 
 ## The upgrade system (in progress)
 *The core of the game — where we started, 2026-10-06.*
