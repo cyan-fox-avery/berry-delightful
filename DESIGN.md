@@ -154,6 +154,11 @@ Open questions:
 - Start: 20 coins. T1: Annapolis planting 60, raised boxes 80. Tier cost curve per major upgrade ≈ 100 × 1.7^(tier−1) (T2 ~170 … T7 ~2410).
 - Pacing: T2 reachable ~day 10–12; roughly a tier every 10–14 days; T7 near season's end. Festival is condition-triggered, so pacing stays player-driven.
 
+## Preserving & food safety (DECIDED 2026-10-06)
+- The three jam recipes (Basic, Jewel, Bounty) are **genuine canned jams** per tested sources (Bernardin / National Center for Home Food Preservation) with proper boiling-water processing — correct jar size, headspace, and processing times. (Option B, ChatGPT's review; safety outranks flavour text.)
+- No improvised sugar quantities for shelf-stable versions; a lower-sugar Jewel uses a tested low-sugar formulation/pectin designed for it.
+- This governs the real-world unlock recipes only — in-game jam mechanics are unchanged.
+
 ## Strawberry varieties — roster (DECIDED 2026-10-06, Avery + ChatGPT)
 *Roster rule: every cultivar earns its place through a distinct identity, mechanic, use, visual, climate behaviour, or story hook — no "another good red strawberry." 14 keeps ≈ 2 per tier across T1–T7.*
 
