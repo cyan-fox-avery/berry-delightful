@@ -160,7 +160,8 @@ Open questions:
 - This governs the real-world unlock recipes only — in-game jam mechanics are unchanged.
 
 ## Experimenting, failed bakes & sharing (DECIDED 2026-10-06)
-- **Experimenting** (kitchen action): combine ingredients freely to discover. Outcomes: unlock a same-tier recipe for free, or produce a **failed bake** — which goes to the pig. Discovery and failure in one mechanic; experimenting is never wasted.
+- **Experimenting** (kitchen action, unlocks at T2): pick 2–3 things from your pantry — berry baskets, made goods (jam, compote), honey — and combine. Match a hidden recipe's inspiration combo → discover it free ("Happy Accident"); anything else → failed bake → pig. Ingredients are spent either way — that is the economy. No coin cost, no other limiter. (Full rules DECIDED 2026-10-06; answers ChatGPT's economy/boundary notes.)
+- **Hidden recipes**: one per tier from T2 on; same-tier discovery only, using only what you own. Anything undiscovered auto-unlocks with the next tier's kitchen upgrade — no FOMO. Each shows a vague hint line on the experiment screen (Empire cookies' hint in Mom's voice). Known roster: Empire cookies (T2, via jam experimenting); the rest designed alongside their tiers.
 - **Failed bakes** come from two triggers: experimenting (the risk of the unknown) and baking with neglected berries. The pig is the gentle landing for both.
 - **Empire cookies** (memorial recipe): Avery's mom made them for holidays — jam-filled sandwich cookies; discoverable via jam experimenting. Solarium memory recorded: in winter she'd keep them in the solarium instead of the freezer, when it was cold enough.
 - **Sharing/gifting**: the player can give baked goods to named townsfolk — a small verb for the game's emotional core ("a love letter about sharing"). Mechanical weight TBD; light by design.
