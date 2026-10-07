@@ -55,6 +55,10 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 
 **Cultivar unlock art (noted 2026-10-06, for art time):** when a new cultivar unlocks, show dedicated art depicting its berries' true colours — white Pineberry, pink-blushed Flamingo, the deep reds — so each new colour lands as a reward. The colour reveal is part of the unlock.
 
+**Backdrops vs sprites (Avery, 2026-10-07):** the backdrop/background images — not the game sprites themselves — should be **almost-realistic watercolours: bright and nostalgic**. The world behind the play reads like a remembered summer; the interactive layer stays cute and readable on top of it.
+
+**The kitchen (Avery, 2026-10-07):** the farmhouse kitchen should resemble Avery and Fiona's **childhood kitchen** — Avery will find reference photos. Personal, not generic.
+
 **Emotional target:** summer memories, picking berries with family, warm fields, sunshine, farm stands, jam jars, clouds, community festivals, taking care of something until it becomes beautiful. The formula: cute pastel strawberry game + early-2000s Eastern Ontario farm community + nostalgic childhood summer memory. (From the Avery + ChatGPT visual-identity session, 2026-10-06.)
 
 ## Upgrade tree (building — tier by tier, alternating columns)
