@@ -285,13 +285,14 @@ Quantities are metric primary with US cups in parentheses. Oven temperatures in 
 - 300 g (1½ cups) granulated sugar
 
 **Method**
-1. Set up the canner as in recipe #4: 4 clean 250 ml mason jars kept hot in simmering water (82°C / 180°F); lids washed in hot, soapy water and kept at room temperature (do not preheat); bands aside.
+1. Set up the canner: place 4 clean 250 ml mason jars on the rack in a boiling-water canner, cover with water, and heat to a simmer (82°C / 180°F). Keep the jars hot until filling. Wash the lids in hot, soapy water, dry, and set aside at room temperature — do not preheat lids. Set the screw bands aside.
 2. Taste a berry first — this jam is about the fruit, so start with fruit worth showcasing. Wash, hull, and crush the strawberries one layer at a time; measure 4 cups (1000 ml) into a large, deep stainless-steel saucepan with the juice. Whisk in the pectin until dissolved.
 3. Measure the sugar; set aside. (Yes, only 1½ cups — a great berry needs less help, and this lower sugar level is safe *only* because this is the tested No Sugar Needed pectin formulation. Never reduce sugar in a regular-pectin jam recipe.)
 4. Over high heat, bring the fruit mixture to a boil, stirring constantly. Add the sugar and return to a boil. Boil 3 minutes, stirring frequently. Remove from heat; skim off foam.
-5. Ladle the hot jam into hot jars with ¼ inch (0.5 cm) headspace; release air bubbles with a nonmetallic utensil, wipe rims, centre lids, and screw bands just to fingertip-tight, as in recipe #4.
-6. Process in the boiling-water canner exactly as in recipe #4: jars covered by at least 1 inch (2.5 cm) of water, 10 minutes at a full rolling boil at altitudes up to 305 m (1,000 ft), adding 5 minutes for 305–915 m and 10 minutes above 915 m.
-7. Rest, cool 24 hours undisturbed, check seals, remove bands, wipe, and label — as in recipe #4.
+5. Quickly ladle the hot jam into a hot jar, leaving ¼ inch (0.5 cm) headspace. Slide a nonmetallic utensil around the inside to release air bubbles and adjust headspace if needed. Wipe the jar rim clean, centre a lid on it, and screw the band down until resistance is met, then just to fingertip-tight. Return the jar to the canner. Repeat with the remaining jam.
+6. Make sure all jars are covered by at least 1 inch (2.5 cm) of water. Cover the canner, bring to a full rolling boil, then start timing: process 10 minutes at altitudes up to 305 m (1,000 ft). Above that, add 5 minutes for 305–915 m (1,001–3,000 ft) and 10 minutes above 915 m.
+7. When the time is up, turn off the heat, remove the canner lid, wait 5 minutes, then lift the jars straight out without tilting. Set upright on a protected surface and cool, undisturbed, for 24 hours — do not retighten the bands.
+8. Check the seals: lids should curve downward and not flex when pressed. Remove the bands, wipe the jars, label, and store.
 
 **Storage:** Sealed jars keep in a cool, dark place; best quality within 1 year. Refrigerate after opening and use within 1 month. Unsealed jars go to the fridge — use within 3 weeks.
 
@@ -312,9 +313,16 @@ Quantities are metric primary with US cups in parentheses. Oven temperatures in 
 - ½ tsp (2 ml) butter or margarine (optional — reduces foaming)
 
 **Method**
-1. This is the benchmark batch, so be picky about the fruit — but the method is deliberately identical to recipe #4: same tested Bernardin formulation, same ¼ inch (0.5 cm) headspace, same 10-minute boiling-water process with altitude adjustments. Follow #4 step by step.
-2. The difference is all in the berry: choose fully ripe, unblemished fruit, crush it evenly, skim the foam thoroughly, and judge the batch the way the festival judges would.
+1. Set up the canner: place 8 clean 250 ml mason jars on the rack in a boiling-water canner, cover with water, and heat to a simmer (82°C / 180°F). Keep the jars hot until filling. Wash the lids in hot, soapy water, dry, and set aside at room temperature — do not preheat lids. Set the screw bands aside.
+2. This is the benchmark batch, so be picky about the fruit: choose fully ripe, unblemished berries. Wash, hull, and crush the strawberries one layer at a time. Measure out 5 cups (1250 ml) crushed fruit.
+3. Measure the sugar into a bowl; set aside.
+4. In a large, deep stainless-steel saucepan, combine the crushed strawberries, lemon juice, and butter. Whisk in the pectin until dissolved.
+5. Over high heat, bring the mixture to a full rolling boil. Add all of the sugar at once. Stirring constantly, return to a full rolling boil that cannot be stirred down. Boil hard for 1 minute, stirring constantly. Remove from heat and skim off the foam — skim thoroughly; a clear jewel of a jam is the benchmark.
+6. Quickly ladle the hot jam into a hot jar, leaving ¼ inch (0.5 cm) headspace. Slide a nonmetallic utensil around the inside to release air bubbles and adjust headspace if needed. Wipe the jar rim clean, centre a lid on it, and screw the band down until resistance is met, then just to fingertip-tight. Return the jar to the canner. Repeat with the remaining jam.
+7. Make sure all jars are covered by at least 1 inch (2.5 cm) of water. Cover the canner, bring to a full rolling boil, then start timing: process 10 minutes at altitudes up to 305 m (1,000 ft). Above that, add 5 minutes for 305–915 m (1,001–3,000 ft) and 10 minutes above 915 m.
+8. When the time is up, turn off the heat, remove the canner lid, wait 5 minutes, then lift the jars straight out without tilting. Set upright on a protected surface and cool, undisturbed, for 24 hours — do not retighten the bands.
+9. Check the seals: lids should curve downward and not flex when pressed. Remove the bands, wipe the jars, label, and store. Judge the batch the way the festival judges would.
 
-**Storage:** As recipe #4 — sealed jars in a cool, dark place, best within 1 year; refrigerate after opening.
+**Storage:** Sealed jars keep in a cool, dark place; best quality within 1 year. Refrigerate after opening and use within 1 month. Any jar that did not seal goes straight to the fridge — use within 3 weeks.
 
 *Source: identical tested formulation to #4 — Bernardin “Classic ‘Easy’ Strawberry Jam” (bernardin.ca). Unchanged on purpose: the benchmark earns its title from the berry, not from tricks.*
