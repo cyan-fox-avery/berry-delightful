@@ -17,7 +17,7 @@ The player inherits a small neglected patch of land and restores it into a beaut
 ## Season & time (DECIDED 2026-10-06)
 - Longer season: early → mid → late summer (~90 days, June–August), player-paced.
 - The Strawberry Festival is NOT on a fixed date. It is a **countdown triggered when a specific set of conditions is met** — the trigger is the Act II → Act III transition, and the countdown window IS Act III (the festival-prep checklist). The season is a container, not a deadline; the finale arrives on the player's terms. No fail state.
-- **The Festival Committee's Readiness List** (DECIDED 2026-10-06; shown in-game from Act II): 1) Starvale fully restored (complete the T7 tree); 2) roadside stand open and serving; 3) a signature festival creation baked (T7 showcase recipe — Pineberry + Gariguette come to the festival; the "Berry Famous" moment). All three met → formal invitation → **14-day countdown** → festival day as a short playable vignette (walk the fair, present the creation, spot the cameos) → free play continues after. Structural milestones only, nothing grindy. (Option A DECIDED 2026-10-06: T7 completes Act II — the festival waits for the full tree rather than triggering at T6.)
+- **The Festival Committee's Readiness List** (DECIDED 2026-10-06; shown in-game from Act II): 1) Starvale fully restored (complete the T7 tree); 2) roadside stand open and serving; 3) a signature festival creation baked (the **Gariguette Fraisier** — named 2026-10-06; the "Berry Famous" moment). All three met → formal invitation → **14-day countdown** → festival day as a short playable vignette (walk the fair, present the creation, spot the cameos) → free play continues after. Structural milestones only, nothing grindy. (Option A DECIDED 2026-10-06: T7 completes Act II — the festival waits for the full tree rather than triggering at T6.)
 - **Nudge** (DECIDED 2026-10-06): if ~day 50 arrives with the list incomplete, the committee's letter arrives warmly noting what's missing — diegetic, no fail state.
 - Day loop (proposed): one free action phase per day (tend, harvest, bake, sell, buy upgrades), closed by End day; plants grow overnight. New plantings take ~3–4 days to first fruit; June-bearers produce heavily in ~8-day windows; everbearers trickle all season; greenhouse enables out-of-season growing. One simple weather forecast per day (sun/rain/heat) — cultivar personalities live here. Rain auto-waters all beds (DECIDED 2026-10-06 — the forecast is worth reading). Watering is one tap per bed; irrigation (T3) auto-waters.
 
@@ -100,7 +100,7 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 - New baking recipes — cakes, tarts (the batter family); tier-2 recipes require the tier-2 mixer (hard requirement at tier level — one coherent beat, not two parallel tracks)
 - Honey recipes (cakes, tarts using hive honey) — the beehive's cross-column ingredient at work
 - Recipe complexity curve continues: more ingredients, more skill
-- T2 recipes (DECIDED 2026-10-06): 1) **Jam Thumbprints** (mixer — cookie dough + T1 strawberry jam; recipes that eat other recipes, a production chain; simplest); 2) **Honey Strawberry Cake** (mixer — hive honey + Cavendish; the cross-column showcase; creaming method); 3) **Strawberry Custard Tart** (mixer — tart shell + vanilla custard + glazed Annapolis; the pretty one, most complex; foreshadows the festival signature creation). Relative value ~55/65/80 — each tier's simplest beats the last tier's best. Kent sits out fresh; its destiny is T3's frozen smoothies.
+- T2 recipes (DECIDED 2026-10-06): 1) **Jam Thumbprints** (mixer — cookie dough + T1 strawberry jam; recipes that eat other recipes, a production chain; simplest); 2) **Honey Strawberry Cake** (mixer — hive honey + Cavendish; the cross-column showcase; creaming method); 3) **Strawberry Custard Tart** (mixer — tart shell + vanilla custard + glazed Annapolis; the pretty one, most complex; foreshadows the festival signature creation); 4) **Strawberry Pie** (basic — simple crumb-top; the "original" that the secret Barbara Special upgrades; added 2026-10-06). Relative value ~55/65/80 (pie ~60, between cake and tart). Kent sits out fresh; its destiny is T3's frozen smoothies.
 
 **Tier 3** — DECIDED 2026-10-06
 - High-end blender (staggered from tier 2)
@@ -111,18 +111,22 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 **Tier 4** — DECIDED 2026-10-06
 - Copper preserving pan (the pot's high-end moment; completes the equipment trilogy: mixer → blender → pan)
 - Advanced preserves recipes (require the copper pan — hard requirement carries forward)
+- T4 recipes (DECIDED 2026-10-06): 1) **Cabot Whole-Berry Preserves** (whole Cabot berries in syrup — the show-off jar; the hollow king's berries finally have a job worthy of them); 2) **Yamaska Vanilla Preserve** (vanilla bean — the luxury preserve; quietly French, which will matter later). Relative value ~140/150.
 
 **Tier 5** — DECIDED 2026-10-06
 - Bigger farmhouse oven — *bigger, not industrial* (industrial clashes with the game's anti-industrial visual identity)
 - Advanced baking recipes, requiring the bigger oven (hard requirement carries forward; the next step up the baking line)
+- T5 recipes (DECIDED 2026-10-06): 1) **Rustic Strawberry Galette** (Seascape — freeform summer bake for the August-gap berry; the anti-tart); 2) **Strawberry Layer Cake** (Albion — the bigger-oven showpiece). Relative value ~160/180.
 
 **Tier 6** — DECIDED 2026-10-06
 - New greenhouse varieties (the greenhouse begins feeding the kitchen)
 - New recipes using the new varieties (complexity curve continues)
+- T6 recipes (DECIDED 2026-10-06): 1) **Fraise des Bois Confiture** (Mara des Bois — wild-strawberry jam, the tiny precious jar; the smallest berries make the most luxurious preserve); 2) **Strawberry Charlotte** (Charlotte — ladyfingers + strawberry mousse; the dessert that shares her name; the breeding progression you can eat). The French thread from T4's vanilla comes into the open. Relative value ~200/210.
 
 **Tier 7** — DECIDED 2026-10-06
 - Rare / out-of-season greenhouse varieties
 - Showcase recipes built around them (complexity curve continues)
+- T7 recipes (DECIDED 2026-10-06): 1) **Pineberry Pavlova** (white meringue, white berries, red seeds — the white showpiece; naturally gluten-free); 2) **Rosé Panna Cotta** (pale pink set cream, pink berries — the pink showpiece; naturally gluten-free; Fiona's favourite, obviously); 3) **Gariguette Fraisier** (the classic French strawberry cake on the diva berry — **the festival signature creation**; baking it completes that readiness-list item). Relative value ~220/230/260.
 
 ## The upgrade system (in progress)
 *The core of the game — where we started, 2026-10-06.*
@@ -168,7 +172,7 @@ Open questions:
 
 ## Experimenting, failed bakes & sharing (DECIDED 2026-10-06)
 - **Experimenting** (kitchen action, unlocks at T2): pick 2–3 things from your pantry — berry baskets, made goods (jam, compote), honey — and combine. Match a hidden recipe's inspiration combo → discover it free ("Happy Accident"); anything else → failed bake → pig. Ingredients are spent either way — that is the economy. No coin cost, no other limiter. (Full rules DECIDED 2026-10-06; answers ChatGPT's economy/boundary notes.)
-- **Hidden recipes**: one per tier from T2 on; same-tier discovery only, using only what you own. Anything undiscovered auto-unlocks with the next tier's kitchen upgrade — no FOMO. Each shows a vague hint line on the experiment screen (Empire cookies' hint in Mom's voice). Known roster: Empire cookies (T2, via jam experimenting); the rest designed alongside their tiers.
+- **Hidden recipes**: one per tier from T2 on; same-tier discovery only, using only what you own. Anything undiscovered auto-unlocks with the next tier's kitchen upgrade — no FOMO. Each shows a vague hint line on the experiment screen. Full roster (DECIDED 2026-10-06): T2 **Empire Cookies** (jam + a baked good; hint in Mom's voice: *"Every Christmas tin had them. You know the ones."*); T3 **Strawberry Sorbet** (frozen berries + honey; *"The freezer hides a dessert — cold, sweet, nothing creamy."*); T4 **Strawberry Butter** (berries + honey; *"Low and slow in the copper pan. Spreadable patience."*); T5 **Everbearer Trifle** (jam + cake; *"Layer what you've already made. Abundance, stacked."*); T6 **Strawberry Fruit Leather** (berries + honey; *"Flat, slow, and chewy. Pack it for later."*); T7 **Blush Jam** (Pineberry + Rosé baskets; *"The jewel box, jarred."*).
 - **"Your version" signature** (Ben's catch, adopted 2026-10-06): a recipe you discover keeps a permanent mark — the card records that it was found, not given, plus a small permanent quality/price edge. The auto-unlock backstop still hands out every recipe (no FOMO), but a found recipe is yours in a way a granted one isn't. Keepsake bonus, not a balance lever — it doesn't fight the pricing philosophy. Empire cookies are the first test case.
 - **Failed bakes** come from two triggers: experimenting (the risk of the unknown) and baking with neglected berries. The pig is the gentle landing for both.
 - **Empire cookies** (memorial recipe): Avery's mom made them for holidays — jam-filled sandwich cookies; discoverable via jam experimenting. Solarium memory recorded: in winter she'd keep them in the solarium instead of the freezer, when it was cold enough.
@@ -179,7 +183,8 @@ Open questions:
 - **The freakberry**: each harvest day, a small chance any bed produces a mutant berry — huge, cockscomb-shaped (real phenomenon: fasciation, fused blossoms), flagged as special. Cabot beds slightly likelier, since king berries are already its thing. Sell it for a premium — or gift it.
 - **Matthew, Dave & Mark**: a trio of brothers hanging around the farm/stand — Barbara's grandsons, Avery's real cousins (Barbara is Avery and Fiona's real grandma). They think giant strawberries are the coolest thing and would love to try one — the diegetic nudge, no UI hint needed.
 - **The trade**: gift a freakberry to the brothers → they share their grandma's family recipe: **the Barbara Special** — an absolutely gorgeous latticework strawberry pie with egg-wash on top. A secret recipe outside the experimenting track; a deluxe upgrade of the standard pie.
-- **Design requirement**: a basic Strawberry Pie recipe must exist no later than T2 (oven era) so the Special reads as an upgrade — not yet placed (T2 currently has 3 recipes; placement TBD).
+- **Design requirement**: a basic Strawberry Pie recipe must exist no later than T2 (oven era) so the Special reads as an upgrade — placed at T2 (2026-10-06).
+- **Event-secret exclusivity** (DECIDED 2026-10-06 — Avery): the Barbara Special and any future event-secret recipes are obtainable ONLY through their event — never via experimenting, never via the tier-upgrade backstop, never hinted. A found secret stays secret.
 - **Achievement**: **"Freakberry"** — grow your first mutant berry. The ONLY luck-based achievement in the game ("just the one, to keep it fair" — Avery); quiet pity nudge so it happens at least once per playthrough. Fair luck, not slot-machine luck.
 
 ## Strawberry varieties — roster (DECIDED 2026-10-06, Avery + ChatGPT)
