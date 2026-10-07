@@ -162,7 +162,7 @@ Open questions:
 ## Experimenting, failed bakes & sharing (DECIDED 2026-10-06)
 - **Experimenting** (kitchen action): combine ingredients freely to discover. Outcomes: unlock a same-tier recipe for free, or produce a **failed bake** — which goes to the pig. Discovery and failure in one mechanic; experimenting is never wasted.
 - **Failed bakes** come from two triggers: experimenting (the risk of the unknown) and baking with neglected berries. The pig is the gentle landing for both.
-- **Empire cookies** (memorial recipe): Avery's mother made them for holidays — jam-filled sandwich cookies; discoverable via jam experimenting. Solarium memory recorded: in winter she'd keep them in the solarium instead of the freezer, when it was cold enough.
+- **Empire cookies** (memorial recipe): Avery's mom made them for holidays — jam-filled sandwich cookies; discoverable via jam experimenting. Solarium memory recorded: in winter she'd keep them in the solarium instead of the freezer, when it was cold enough.
 - **Sharing/gifting**: the player can give baked goods to named townsfolk — a small verb for the game's emotional core ("a love letter about sharing"). Mechanical weight TBD; light by design.
 - **Freezer**: boring T1 unlock — the fridge's freezer compartment; a dedicated chest freezer comes as a later upgrade. No capacity minigames — functional, not fussy. (Kent's freezing needed a home; this is it.)
 
@@ -206,6 +206,7 @@ Principle (carried from the shark game): no grind counters — celebrate moments
 - Festival: "Berry Famous" (present the signature creation)
 - Weather & mishap: "Hot Mess" (harvest Honeoye in a heatwave); "Fun Size" (the tutorial's shriveled Earliglows)
 - Sharing: "Good Neighbour" (Avery's — give food away; the sharing verb's moment)
+- Roman's pitches (2026-10-06 — kept per Avery): "Happy Accident" (first recipe discovered by experimenting); "Like Mom Made" (discover Empire cookies); "Underfoot" (the pig gets underfoot in the kitchen); "Chill Out" (freeze your first berries); "Under Glass" (first greenhouse harvest); "You're Invited" (the festival countdown triggers); "Crown Jewel" (Jewel jam + Jewel lemonade); "Preservation Society" (all three jams canned); "Comeback Kid" (a neglected bed bounces all the way back); "Storm Baker" (bake in a thunderstorm); "Blue Ribbon" (win a festival category)
 
 ## Easter eggs (2026-10-06 — inclusions decided, forms in discussion)
 Rule (from the shark game): value NOT tied to progression; funny/silly/educational/cute/sweet; must not break the game's reality.
