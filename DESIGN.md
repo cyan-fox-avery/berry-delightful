@@ -51,6 +51,8 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 
 **Visual progression (the farm is the progress bar):** early Starvale has duller/patchier plants, smaller paler fruit, uneven beds, tired fencing, sparse flowers, worn signs. As the player improves soil, water, cultivation, pollination, equipment: leaves fuller and greener, berries larger/deeper red/more abundant, more flowers and pollinators, neater paths, repaired fences and buildings, flower borders, accumulating baskets/signs/rain barrels/tools/market elements, eventually a greenhouse, late-game festival bunting. Early vs. late screenshots should read instantly as transformation through care.
 
+**Cultivar unlock art (noted 2026-10-06, for art time):** when a new cultivar unlocks, show dedicated art depicting its berries' true colours — white Pineberry, pink Rosé, the deep reds — so each new colour lands as a reward. The colour reveal is part of the unlock.
+
 **Emotional target:** summer memories, picking berries with family, warm fields, sunshine, farm stands, jam jars, clouds, community festivals, taking care of something until it becomes beautiful. The formula: cute pastel strawberry game + early-2000s Eastern Ontario farm community + nostalgic childhood summer memory. (From the Avery + ChatGPT visual-identity session, 2026-10-06.)
 
 ## Upgrade tree (building — tier by tier, alternating columns)
@@ -173,9 +175,9 @@ Open questions:
 - **Freezer**: boring T1 unlock — the fridge's freezer compartment; a dedicated chest freezer comes as a later upgrade. No capacity minigames — functional, not fussy. (Kent's freezing needed a home; this is it.)
 
 ## Strawberry varieties — roster (DECIDED 2026-10-06, Avery + ChatGPT)
-*Roster rule: every cultivar earns its place through a distinct identity, mechanic, use, visual, climate behaviour, or story hook — no "another good red strawberry." 14 keeps ≈ 2 per tier across T1–T7.*
+*Roster rule: every cultivar earns its place through a distinct identity, mechanic, use, visual, climate behaviour, or story hook — no "another good red strawberry." 15 keeps — 2 per tier T1–T6, 3 at T7 (the jewel box).*
 
-**KEEPS (14):**
+**KEEPS (15):**
 - Annapolis — early; medium-large berries that hold size pick after pick; zone 3; AAFC Kentville
 - Honeoye — early; perfume-like flavour, best in cool weather, bland in heat
 - Cavendish — mid; top performer in QC/ON/NS trials; very productive
@@ -189,24 +191,25 @@ Open questions:
 - Mara des Bois — intensely aromatic gourmet; tiny berries, wild-strawberry perfume
 - Charlotte — Mara des Bois × Cal 19; bigger, firmer, zone 3 hardy — the breeding-history progression (Mara → Charlotte teaches real plant breeding through play)
 - Pineberry 'White Carolina' — white fruit, red seeds, pineapple note; the surprise unlock
+- Rosé — pink-fruited (cf. Driscoll's Rosé); light pink berries, peachy/floral flavour, creamy texture. The delight pick — grown because it's pink. (Added 2026-10-06 for Fiona.)
 - Gariguette — delicate aromatic French showpiece; greenhouse-required; justifies the greenhouse
 
-**MAYBE → DECIDED 2026-10-06:** Earliglow kept as the tutorial's old neglected variety — the classic past its prime, berries shrinking — giving the restoration a "what was here before" texture. Wendy, Darselect, Valley Sunset, Tristar, Evie-2, Sweet Charlie cut. (Roster is now 15 named cultivars: 14 tiered + Earliglow in the tutorial.)
+**MAYBE → DECIDED 2026-10-06:** Earliglow kept as the tutorial's old neglected variety — the classic past its prime, berries shrinking — giving the restoration a "what was here before" texture. Wendy, Darselect, Valley Sunset, Tristar, Evie-2, Sweet Charlie cut. (Roster is now 16 named cultivars: 15 tiered + Earliglow in the tutorial.)
 **PASS (3):** Glooscap, Tribute, Camarosa.
 
-**Tier placement — PROPOSED (not yet decided; awaiting Avery's reaction):**
+**Tier placement — DECIDED 2026-10-06 (Avery: "looks excellent"):**
 - T1: Annapolis + Honeoye — early harvest teaches the loop fast; reliable vs heat-fussy contrast
 - T2: Cavendish + Kent — mid-season volume; Kent bridges into T3 drinks/smoothies (freezes exceptionally well for the high-end blender; frozen stash visually distinct in the kitchen — frost icon — so "frozen" reads as an ingredient state, not hidden metadata; adopted from Milo, +1'd by ChatGPT, 2026-10-06)
 - T3: Jewel + Bounty — flavour favourite for the new roadside stand; the processing berry as preserves get serious (varietal jams)
 - T4: Cabot + AC Yamaska — stand show-off novelty; pollinator mechanic calls back to T2's bees
 - T5: Seascape + Albion — August-gap everbearers; Albion foreshadows the greenhouse; rain contrast (splits vs shrugs)
 - T6: Mara des Bois + Charlotte — greenhouse-supported specialty cultivars (not greenhouse-only in the region — the glass is about reliability, not requirement); the breeding progression under glass
-- T7: Pineberry + Gariguette — surprise unlock + ultimate showpiece; festival material
+- T7: Pineberry + Rosé + Gariguette — the jewel box: white wonder, pink delight, French diva; festival material
 
 ## Achievements (brainstorm — 2026-10-06, nothing decided)
 Principle (carried from the shark game): no grind counters — celebrate moments, discovery, craft, the pig. Fiona shares Avery's sense of humour, so funny ones are explicitly wanted.
 - Firsts: "The Old Patch" (first harvest, from the Earliglow tutorial patch), first bake, first stand sale
-- Cultivar stories: grow all 14; "The Breeder" (Mara → Charlotte); "White Wonder" (first white Pineberry); "Matchmaker" (Yamaska pollinated); "The Hollow King" (hollow Cabot king berry); "NePo Baby" (first Charlotte)
+- Cultivar stories: grow all 15; "The Breeder" (Mara → Charlotte); "White Wonder" (first white Pineberry); "Pretty in Pink" (first pink Rosé harvest); "Matchmaker" (Yamaska pollinated); "The Hollow King" (hollow Cabot king berry); "NePo Baby" (first Charlotte)
 - Craft: "Brain Freeze" (first smoothie from frozen Kents); first gluten-free bake; complete a recipe family; "Bounty Hunter" (jam from Bounty berries); "Honey Money" (sell first honey jar)
 - Pig: name the pig; "Quality Control" (pig eats a failed bake); "Basket Case" (pig asleep in a basket); "That'll Do, Pig" (Avery's — the pig tastes a number of *different* failed recipes; the pig as critic — variety, not grind); "Pig Out" (three different failed bakes in a single day)
 - Festival: "Berry Famous" (present the signature creation)
@@ -226,7 +229,7 @@ Rule (from the shark game): value NOT tied to progression; funny/silly/education
 - **Launch-readiness:** tutorial completable end-to-end; all 4 recipes bakeable and sellable; numbers in; version number displayed (standing rule); placeholder art is fine (canon for now).
 
 ## Queued design topics
-- Strawberry varieties: tier placement of the 14 keeps (proposed above) — IN DISCUSSION. Maybes decided 2026-10-06 (Earliglow kept for tutorial; other six cut). Also decides whether soil/mulch/compost is a real mechanic or cut (no filler).
+- Strawberry varieties: tier placement DECIDED 2026-10-06 (15 keeps across T1–T7). Maybes decided 2026-10-06 (Earliglow kept for tutorial; other six cut). Also decides whether soil/mulch/compost is a real mechanic or cut (no filler).
 - Recipes & processing
 - Act III festival-prep phase & the signature creation (finite checklist design)
 - The pig (name? personality? idle animations?)
