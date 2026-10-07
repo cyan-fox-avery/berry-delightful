@@ -19,7 +19,7 @@ The player inherits a small neglected patch of land and restores it into a beaut
 - The Strawberry Festival is NOT on a fixed date. It is a **countdown triggered when a specific set of conditions is met** — the trigger is the Act II → Act III transition, and the countdown window IS Act III (the festival-prep checklist). The season is a container, not a deadline; the finale arrives on the player's terms. No fail state.
 - **The Festival Committee's Readiness List** (DECIDED 2026-10-06; shown in-game from Act II): 1) Starvale fully restored (complete the T7 tree); 2) roadside stand open and serving; 3) a signature festival creation baked (T7 showcase recipe — Pineberry + Gariguette come to the festival; the "Berry Famous" moment). All three met → formal invitation → **14-day countdown** → festival day as a short playable vignette (walk the fair, present the creation, spot the cameos) → free play continues after. Structural milestones only, nothing grindy. (Option A DECIDED 2026-10-06: T7 completes Act II — the festival waits for the full tree rather than triggering at T6.)
 - **Nudge** (DECIDED 2026-10-06): if ~day 50 arrives with the list incomplete, the committee's letter arrives warmly noting what's missing — diegetic, no fail state.
-- Day loop (proposed): one free action phase per day (tend, harvest, bake, sell, buy upgrades), closed by End day; plants grow overnight. New plantings take ~3–4 days to first fruit; June-bearers produce heavily in ~8-day windows; everbearers trickle all season; greenhouse enables out-of-season growing. One simple weather forecast per day (sun/rain/heat) — cultivar personalities live here. Watering is one tap per bed; irrigation (T3) auto-waters.
+- Day loop (proposed): one free action phase per day (tend, harvest, bake, sell, buy upgrades), closed by End day; plants grow overnight. New plantings take ~3–4 days to first fruit; June-bearers produce heavily in ~8-day windows; everbearers trickle all season; greenhouse enables out-of-season growing. One simple weather forecast per day (sun/rain/heat) — cultivar personalities live here. Rain auto-waters all beds (DECIDED 2026-10-06 — the forecast is worth reading). Watering is one tap per bed; irrigation (T3) auto-waters.
 
 ## Day loop & tutorial (DECIDED 2026-10-06)
 - Each day = one free action phase: water beds (one tap per bed), plant, harvest, bake, sell, shop upgrades — then End day. Overnight, plants grow and tomorrow's weather rolls in.
@@ -159,6 +159,13 @@ Open questions:
 - No improvised sugar quantities for shelf-stable versions; a lower-sugar Jewel uses a tested low-sugar formulation/pectin designed for it.
 - This governs the real-world unlock recipes only — in-game jam mechanics are unchanged.
 
+## Experimenting, failed bakes & sharing (DECIDED 2026-10-06)
+- **Experimenting** (kitchen action): combine ingredients freely to discover. Outcomes: unlock a same-tier recipe for free, or produce a **failed bake** — which goes to the pig. Discovery and failure in one mechanic; experimenting is never wasted.
+- **Failed bakes** come from two triggers: experimenting (the risk of the unknown) and baking with neglected berries. The pig is the gentle landing for both.
+- **Empire cookies** (memorial recipe): Avery's mother made them for holidays — jam-filled sandwich cookies; discoverable via jam experimenting. Solarium memory recorded: in winter she'd keep them in the solarium instead of the freezer, when it was cold enough.
+- **Sharing/gifting**: the player can give baked goods to named townsfolk — a small verb for the game's emotional core ("a love letter about sharing"). Mechanical weight TBD; light by design.
+- **Freezer**: boring T1 unlock — the fridge's freezer compartment; a dedicated chest freezer comes as a later upgrade. No capacity minigames — functional, not fussy. (Kent's freezing needed a home; this is it.)
+
 ## Strawberry varieties — roster (DECIDED 2026-10-06, Avery + ChatGPT)
 *Roster rule: every cultivar earns its place through a distinct identity, mechanic, use, visual, climate behaviour, or story hook — no "another good red strawberry." 14 keeps ≈ 2 per tier across T1–T7.*
 
@@ -198,6 +205,7 @@ Principle (carried from the shark game): no grind counters — celebrate moments
 - Pig: name the pig; "Quality Control" (pig eats a failed bake); "Basket Case" (pig asleep in a basket); "That'll Do, Pig" (Avery's — the pig tastes a number of *different* failed recipes; the pig as critic — variety, not grind); "Pig Out" (three different failed bakes in a single day)
 - Festival: "Berry Famous" (present the signature creation)
 - Weather & mishap: "Hot Mess" (harvest Honeoye in a heatwave); "Fun Size" (the tutorial's shriveled Earliglows)
+- Sharing: "Good Neighbour" (Avery's — give food away; the sharing verb's moment)
 
 ## Easter eggs (2026-10-06 — inclusions decided, forms in discussion)
 Rule (from the shark game): value NOT tied to progression; funny/silly/educational/cute/sweet; must not break the game's reality.
