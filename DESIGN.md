@@ -33,7 +33,7 @@ The player inherits a small neglected patch of land and restores it into a beaut
 - **Real strawberries.** Real varieties with meaningful differences: flavour, colour, harvest season, yield, climate preferences, ideal uses.
 - **Baking matters.** Jam, preserves, cakes, tarts, drinks. Recipes default to gluten-free wherever possible — not a separate version, just how they're written. Every food unlocks its real-world recipe after the win.
 - **Light learning.** Real cultivation, pollinator, ecology, and food facts — a dusting, never homework.
-- **The pig.** A big, well-socialized barnyard pig — not a little potbelly, a proper big ol' pig who just happens to be extremely friendly — named by the player, economically useless, delightful. Wanders the farm, sleeps in straw, investigates baskets, gets muddy, appears in inconvenient places, provides personality. Failed bakes go to the pig, who considers this an excellent outcome — and they're pig-safe by design: the game's baking never produces anything harmful to pigs (no chocolate, xylitol, alcohol, or the like in failure outcomes), and a pig this size handles treat quantities happily.
+- **The pig.** A big, well-socialized barnyard pig — not a little potbelly, a proper big ol' pig who just happens to be extremely friendly — named by the player, economically useless, delightful. Wanders the farm, sleeps in straw, investigates baskets, gets muddy, appears in inconvenient places, provides personality. Failed bakes go to the pig, who considers this an excellent outcome — and by design, nothing the kitchen can produce would ever disagree with him. (Wording kept in game abstraction per ChatGPT's review 2026-10-06.)
 - **The festival is the win.** The season builds to the town's annual Strawberry Festival: the restored farm opens to visitors and the player presents a signature strawberry creation using everything learned. The farm stays playable afterward.
 - **A gift, not a job.** Passive systems should feel like the farm giving you something, never like another obligation — "a jar that fills every few days is a gift; a jar you must tend is a job." (From Milo via ChatGPT, adopted 2026-10-06 — use as a design test for every ambient system.)
 
@@ -153,11 +153,16 @@ Open questions:
 - New planting: 3 days to first fruit. June-bearer bed: 2 baskets/day over an 8-day window, then done. Everbearer bed: 1 basket every 2 days, all season. Tutorial Earliglow patch: 2 baskets/day for 6 days, then done — a big old patch, just neglected ("this old patch still gave us enough to start again").
 - Start: 20 coins. T1: Annapolis planting 60, raised boxes 80. Tier cost curve per major upgrade ≈ 100 × 1.7^(tier−1) (T2 ~170 … T7 ~2410).
 - Pacing: T2 reachable ~day 10–12; roughly a tier every 10–14 days; T7 near season's end. Festival is condition-triggered, so pacing stays player-driven.
+- **Pricing philosophy** (DECIDED 2026-10-06): new tiers raise the profit ceiling without strictly dominating everything below. Older recipes stay useful — cheaper pantry costs, fewer ingredients, currently-abundant berries, chain ingredients (jam → thumbprints), stand demand. "What should I make with today's harvest?" should sometimes have more than one right answer. (Softens the earlier "each tier's simplest beats the last tier's best" — that was a first-pass shape, not a law. Per ChatGPT's review.)
 
 ## Preserving & food safety (DECIDED 2026-10-06)
 - The three jam recipes (Basic, Jewel, Bounty) are **genuine canned jams** per tested sources (Bernardin / National Center for Home Food Preservation) with proper boiling-water processing — correct jar size, headspace, and processing times. (Option B, ChatGPT's review; safety outranks flavour text.)
 - No improvised sugar quantities for shelf-stable versions; a lower-sugar Jewel uses a tested low-sugar formulation/pectin designed for it.
 - This governs the real-world unlock recipes only — in-game jam mechanics are unchanged.
+
+## Real cookbook notes (2026-10-06 — future pass, not yet implemented)
+- **GF toolkit diversification** (per ChatGPT's review): "GF by default" must not become "everything is almond flour." As the recipe list grows, diversify — GF all-purpose blends, cornstarch, certified GF oats where appropriate, naturally flourless structures. Principle: "a delicious recipe that happens to be GF."
+- Provenance pass (government/extension sources for preserving; public-domain, reusable, or original formulations) and actual kitchen testing still to come before anything player-facing. NOT KITCHEN-TESTED stays stamped until then.
 
 ## Experimenting, failed bakes & sharing (DECIDED 2026-10-06)
 - **Experimenting** (kitchen action, unlocks at T2): pick 2–3 things from your pantry — berry baskets, made goods (jam, compote), honey — and combine. Match a hidden recipe's inspiration combo → discover it free ("Happy Accident"); anything else → failed bake → pig. Ingredients are spent either way — that is the economy. No coin cost, no other limiter. (Full rules DECIDED 2026-10-06; answers ChatGPT's economy/boundary notes.)
