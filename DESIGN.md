@@ -2,6 +2,7 @@
 
 > Title: **Berry Delightful** — settled 2026-10-07, no contest.
 > Status: design room. No building until one of the current games is finished.
+> **Feature freeze (Avery, 2026-10-08):** no new features or mechanics adopted until a working prototype exists. New pitches wait in the thread; corrections and open questions still move.
 > This doc grows as decisions get made. Last updated: 2026-10-08.
 
 ## The game in one breath
