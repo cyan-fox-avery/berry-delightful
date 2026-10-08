@@ -1,8 +1,8 @@
 # Strawberry Farm — Design Doc
 
-> Working title (placeholder): **Berry Delightful** — Avery's instinct, not settled.
+> Title: **Berry Delightful** — settled 2026-10-07, no contest.
 > Status: design room. No building until one of the current games is finished.
-> This doc grows as decisions get made. Last updated: 2026-10-06.
+> This doc grows as decisions get made. Last updated: 2026-10-08.
 
 ## The game in one breath
 A cozy, finite strawberry farming game for Avery's sister Fiona — "a small playable love letter to Fiona: strawberries, sunshine, baking, growing something carefully, making a place beautiful, and eventually sharing what you made with other people."
@@ -68,6 +68,13 @@ The world is rooted in an **early-2000s Eastern Ontario / Ottawa Valley farm com
 **The big strawberry** (Avery, 2026-10-07 — real Stardale Farm memory): at the end of the driveway stands a giant strawberry — just wood and paint, but big enough to sit in. It's Starvale's landmark: the thing you photograph, the thing kids climb into, the sign that you're here. It should be one of the first things the farm vista establishes.
 
 **Emotional target:** summer memories, picking berries with family, warm fields, sunshine, farm stands, jam jars, clouds, community festivals, taking care of something until it becomes beautiful. The formula: cute pastel strawberry game + early-2000s Eastern Ontario farm community + nostalgic childhood summer memory. (From the Avery + ChatGPT visual-identity session, 2026-10-06.)
+
+## Scope & presentation (LOCKED 2026-10-08 — Mira's scope clarification, adopted by Avery)
+- **A small, browser-based, illustrated game with visual-novel/point-and-click presentation.** Not a free-roaming farming simulator. A collection of handcrafted watercolour scenes the player interacts with through clickable objects, character dialogue, menus, and overlays. A little world Fiona can visit, not an entire world she needs to navigate.
+- **~7–8 principal scenes:** farmhouse — kitchen (cooking, experiments, upgrades) and living room (memories, keepsakes, family easter eggs; the bedroom is unseen — bedtime is an interaction, not a room); farm exterior — main strawberry fields + farmhouse exterior, roadside stand + farmyard, and at most one additional view if the gameplay genuinely benefits; festival — grounds, family gathering/presentation area, one more festival location or closing sunset scene; plus the title screen, credits, and overlays (journal, cookbook, field guide, inventory, upgrade panels).
+- **Movement & animation:** navigate by selecting locations or clicking hotspots — no player character to steer. NPCs are illustrated sprites with dialogue and a few expressions. The pig is pose-swaps, not physics. Visual progression comes from swapping or layering artwork at milestones, not continuous simulation. The festival walking tour is a sequence of illustrated locations and conversations, not real-time navigation. Subtle fades, weather effects, drifting petals are lovely; elaborate animation is not a production requirement.
+- **Technology:** ordinary web tech (HTML, CSS, JavaScript); a lightweight 2D framework only if implementation reveals a concrete need. Lightweight browser game that opens on Fiona's phone. The engineering that matters: reliable state management, recipe experimentation, crop progression, responsive interfaces, saving.
+- **The scope rule:** new content does not automatically mean new scenes or mechanics. A new recipe goes in the existing kitchen; a new keepsake goes in the existing living room; a new character visits an existing location; a new farm upgrade modifies an existing illustration. Exhaust what the scenes can express before adding more environments. The richness of this game is in its content, writing, progression, and art — not real-time simulation.
 
 ## Upgrade tree (building — tier by tier, alternating columns)
 *Method decided 2026-10-06: build the upgrade foundation first, alternating kitchen/farming per tier so each tier lands as a matched set. Per upgrade we track: tier (= cost), what it unlocks, and its visual change. The tree caps at tier 7 (adopted from ChatGPT's review, 2026-10-06).*
