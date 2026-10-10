@@ -338,24 +338,22 @@ Rule (from the shark game): value NOT tied to progression; funny/silly/education
 - **The reserve nod** (form TBD — Mira, adopted 2026-10-07): no generic beaded items or generic Indigenous-looking signifiers as set dressing. The real version will be grounded in Fiona's actual relationship to the school/community — something specific she'd recognize and be comfortable sharing. Not solved today, and not rushed.
 - Riff pile (Avery wants these too): heart berry — pressing would squash it (it's not a flower), and a fresh one would rot, so this one's for eating: sweetest berry of the summer, a tiny private moment, then gone; Strawberry Moon flavor text in June; cloud shapes (strawberry, pig); festival crowd cameos — Barbara's family: Deborah & Gordon (the trio's parents), Donna, Siobhan, Kelly (Donna's daughters); June's family: Tammy & Michael (married; Tammy is June's youngest), Lynn, Tony, Wesley, Andrea (Andy) — brother Mark lives out of town, never seen; plus Ben (love interest, implied only — the crowd gossip does the work), Avery (lol). Sarah and Harley do NOT cameo — Fiona has never met them. (Two Marks — don't confuse them: the trio's Mark is Deborah's son; Tammy's brother Mark is the unseen one.) Buried childhood object: CUT 2026-10-06 (marble cut earlier — they never played with marbles; the whole idea cut — Avery couldn't find anything important/memorable enough); tap-the-pig trick (ten taps → dramatic flop); four-leaf clover in the keepsake box. The keepsake box (farmhouse shelf) is the quiet little museum holding the durable treasures — no reward attached.
 
-## Prototype scope — v0.1 (DECIDED 2026-10-06)
-- **In:** full tutorial (8 beats) → T1 open; T1 complete (Annapolis + Honeoye planting, raised planter boxes, all 4 starter recipes, all 3 appliances); day loop with overnight growth + one weather forecast/day; first-pass economy; nameable pig that eats failed bakes.
-- **Endpoint:** completing T1 → "to be continued" beat that teases the bees (a bee drifts past, the beekeeper waves from the road) — v0.2's trailer.
-- **Out:** T2+, festival/countdown, achievements, easter eggs, greenhouse, roadside stand; session-based for now (save/load deferred — flagged as an open question).
-- **Launch-readiness:** tutorial completable end-to-end; all 4 recipes bakeable and sellable; numbers in; version number displayed (standing rule); placeholder art is fine (canon for now).
-- **Grey-box graduation gate** (Milo's five, adopted 2026-10-10): the prototype graduates when playtesting proves — 1) the tutorial completes blind; 2) a day feels like a day (wording pending the action-budget review); 3) the pig verdict lands; 4) the storm tell reads without being told; 5) a rainy day feels like a gift. Gatekeepers: Ben's playtest + Mira's review. **Action budget under review** (Avery, 2026-10-10 — not sold on the per-day action limit): strawberry growth is the natural time barrier, and experimenting is self-limiting through stock (the tutorial already warns against hitting 0). If the player wants to burn a whole stock experimenting in one day, that's their call. Criterion #2 to be reworded once the budget question is settled.
+## Prototype scope & graduation (current, 2026-10-10)
+- **Authorized grey-box lab:** tutorial (8 beats) + Act I through Tier 2, in simple HTML/CSS/JS: approximately four placeholder scenes, crop growth/weather/economy, T1/T2 shop and eight recipes, experiments and failed bakes → Buddy, journal autosave, naming. The grey box tests mechanics and usability, **not** art or release readiness.
+- **Pacing comparison:** original lab v0.1 tested the four-action loop; Avery's new starting direction is **no per-day cap**. Roman reports a separate "Grey Box 2" running uncapped. Verify its actual URL/ref and code before reviewing or claiming its results; the older lab/main files do not establish the new build.
+- **Graduation gate** (Milo, adopted 2026-10-10): 1) blind tester completes the tutorial unaided; 2) uncapped days feel like *choices*, not exhaustive checklists; 3) first failed experiment and Buddy's verdict are enjoyable; 4) pre-storm Buddy tell is noticed without being told; 5) storm day feels like a cozy/useful kitchen day. **Gatekeepers: Ben's playtest and Mira's review.** If 4–5 are outside the build under review, record them as untested instead of silently signing off.
+- **Out of this mechanical prototype:** final watercolor artwork, tiers 3–7, festival, Christmas ending, Year Two, full keepsake/audio production and other parked pitches.
+- **Historical v0.1 proposal (2026-10-06, superseded):** original tutorial→T1-only plan (four recipes, no Tier 2, no autosave), with a bees teaser. Retained for provenance, **not** current implementation scope or launch checklist.
 
-## Queued design topics
-- Strawberry varieties: tier placement DECIDED 2026-10-06 (15 keeps across T1–T7). Maybes decided 2026-10-06 (Earliglow kept for tutorial; other six cut). Also decides whether soil/mulch/compost is a real mechanic or cut (no filler).
-- Recipes & processing
-- Act III festival-prep phase & the signature creation — DESIGNED 2026-10-06 (paper-chain countdown, 5-item checklist, 6-beat festival vignette; fraisier named as signature). Family cameo tree recorded 2026-10-06 (Barbara's + June's families).
-- The pig (name? personality? idle animations?)
-- Season structure & pacing: season/time/day-loop/tutorial decided 2026-10-06; first-pass numbers (costs, yields, prices, growth times) pending
-- Educational layer (how the facts surface)
+## Queued design topics (unresolved only; new pitches paused at Avery's request)
+- **Grey-box pacing and economy:** playtest the uncapped daily loop and recipe/upgrade costs before settling tuning.
+- **Soil/mulch/compost:** Milo suggested visual dressing, not a new management system; this suggestion is **not automatically adopted**. Await Avery's decision.
+- **Festival beat order:** Milo's detailed beat map is parked, not locked. The existing serving scene and relaxed tour are unchanged.
+- **Text rewrite:** use the adopted four-voice guide; keep Barbara an optional extra, not a quest, and keep explicit family relationships out of the dialogue.
+- **Year Two/save safety:** optional journal-shelving ceremony, tutorial skip, persistent discoveries, preservation of completed books, and safe confirmation/reset behavior remain to be designed.
+- **Farmhouse window proposal (Avery, 2026-10-10):** dawn-to-starfield view in approximately 6–12 visual lighting states, with **no time pressure**. Whether it changes after actions or at day transitions is open. Roman's stars-at-End-Day beat is a proposal, not an enforced timer.
+- **Sound production and rights:** diegetic festival fiddle is a decided mood; individual recordings/arrangements must be licensed.
+- **Further content:** complete already-committed writing, assets and balancing after the grey-box gate and team breather rather than accepting more mechanics.
 
-## Title candidates
-- Berry Delightful (Avery's instinct — current placeholder)
-- Strawberry Season
-- The Berry Patch
-- Sun-Ripened
-- A Strawberry Summer
+## Archived title shortlist (historical; resolved 2026-10-07)
+**Game title: Berry Delightful. Farm: Starvale Farm.** Earlier names, no longer open: Strawberry Season · The Berry Patch · Sun-Ripened · A Strawberry Summer.
