@@ -18,7 +18,7 @@ Avery wants **the atmosphere of the Vankleek Hill Fair as he and Fiona experienc
 | **Zipper** | The famous “rat cages” Avery and Fiona never quite dared ride: a vertically looping/rotating ride with independently tumbling cages. Avery positively identified it as **the Zipper**. | One unmistakably tall, thrilling, intimidating ride silhouette — the “maybe next year” experience, not a playable challenge. |
 | **Funhouse** | **There was always a funhouse.** | Bold painted facade, slightly cheeky artwork, walk-through feel, possibly visible at the midway edge. More texture and nostalgia than a new destination. |
 
-These are **memories across multiple years**, not a claim that every single ride appeared together on a specific fair day. The Musicial Ride/Musical Ride was especially memorable *one year*, not necessarily annual; the Scrambler, spinning strawberries, dragon and funhouse were repeat fixtures from Avery's recollection. Do not substitute Rock-O-Plane for the Zipper: a later photo album names Rock-O-Plane, but that does not negate Avery's Zipper memory.
+These are **memories across multiple years**, not a claim that every single ride appeared together on a specific fair day. The Musical Ride was especially memorable *one year*, not necessarily annual; the Scrambler, spinning strawberries, dragon and funhouse were repeat fixtures from Avery's recollection. Do not substitute Rock-O-Plane for the Zipper: a later photo album names Rock-O-Plane, but that does not negate Avery's Zipper memory.
 
 ### Visual framing for the existing game scenes
 
