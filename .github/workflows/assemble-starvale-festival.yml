@@ -1,0 +1,29 @@
+name: Assemble approved Starvale festival audio
+on:
+  push:
+    branches:
+      - festival-soundtrack-asset-20261017
+    paths:
+      - 'assets/audio/festival/.parts/**'
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reconstruct and verify approved audio
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat assets/audio/festival/.parts/part-* > assets/audio/festival/starvale-festival-loop.m4a
+          echo "bea29458a6ee8cea70ce6f5c37572f414f3a6ab9e2bfb63910a7352ccb6022f8  assets/audio/festival/starvale-festival-loop.m4a" | sha256sum --check
+          rm -rf assets/audio/festival/.parts
+      - name: Save assembled M4A on asset branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/audio/festival
+          git commit -m "Assemble approved six-minute Starvale festival M4A"
+          git push origin HEAD:festival-soundtrack-asset-20261017
